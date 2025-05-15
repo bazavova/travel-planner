@@ -1,38 +1,77 @@
-.App {
+/* Глобальная структура */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  background-image: url('/public/images/background1.jpg'); /* 👈 путь к фоновому изображению */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+/* Обёртка приложения */
+.app-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  background-color: rgba(255, 255, 255, 0.88); /* 👈 прозрачная белая подложка для читаемости */
+}
+
+/* Контент тянется */
+.content {
+  flex: 1;
+  padding: 2rem;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Хедер */
+header {
+  background-color: #66c4a3;
+  padding: 2rem;
+  color: rgb(221, 246, 250);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* Main */
+main {
+  margin-top: 2rem;
+  flex: 1;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+/* Футер прибит к низу */
+footer,
+.footer {
+  background-color: #000000dd;
+  color: #f8f3f3;
+  text-align: center;
+  padding: 1rem;
+  margin-top: auto;
+  width: 100%;
+  position: relative;
+  bottom: 0;
+}
+
+/* Навбар */
+.nav-bar {
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  background: #98f2f1;
+  padding: 1rem 2rem;
 }
 
-.App-link {
-  color: #61dafb;
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #1a7f5a;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.nav-links a {
+  text-decoration: none;
+  color: #000;
+  margin: 0 8px;
+}
+
+.nav-links a:hover {
+  color: #1a7f5a;
 }
