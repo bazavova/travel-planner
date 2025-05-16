@@ -175,7 +175,14 @@ function HomePage() {
           </div>
         </div>
       </section>
-
+      <div className="map-section">
+        <iframe
+          className="map-iframe"
+          src="https://yandex.ru/map-widget/v1/?um=constructor%3A2c1a59e4e26ea76b098004b8654e5f13f68d3eb21d08de9e738da4bfa5f071c4&amp;source=constructor"
+          allowFullScreen
+          title="Карта России"
+        ></iframe>
+      </div>
     </div>
   );
 }
