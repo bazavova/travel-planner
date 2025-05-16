@@ -3,16 +3,36 @@ import db from '../../db.js';
 
 const router = express.Router();
 
+// 🔧 Вспомогательная функция для форматирования даты
+const formatDate = (isoDateStr) => {
+  const date = new Date(isoDateStr);
+  return date.toISOString().slice(0, 10); // YYYY-MM-DD
+};
+
 // Добавление новой поездки
 router.post('/', (req, res) => {
-  const { destination, startDate, endDate, cost, guideRequired, userId, guideId } = req.body;
+  const payload = {
+    ...req.body,
+    startDate: formatDate(req.body.startDate),
+    endDate: formatDate(req.body.endDate),
+  };
 
   const sql = `
-    INSERT INTO trip (Start_date, End_date, Destination, Guide_required, Cost, User_id, Guide_id)
-    VALUES (?, ?, ?, ?, ?, ?, ?)
+    INSERT INTO trip (Start_date, End_date, Destination, Guide_required, Cost, User_id, Guide_id, Travel_type, Language)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
   `;
 
-  const values = [startDate, endDate, destination, guideRequired, cost, userId, guideId];
+  const values = [
+    payload.startDate,
+    payload.endDate,
+    payload.destination,
+    payload.guideRequired,
+    payload.cost,
+    payload.userId,
+    payload.guideId,
+    payload.travelType,
+    payload.language,
+  ];
 
   db.query(sql, values, (err, result) => {
     if (err) {
@@ -69,15 +89,15 @@ router.delete('/:id', (req, res) => {
 // Обновление поездки
 router.put('/:id', (req, res) => {
   const tripId = req.params.id;
-  const { Destination, Start_date, End_date, Cost, Guide_required } = req.body;
+  const { Destination, Start_date, End_date, Cost, Guide_required, Travel_type, Language } = req.body;
 
   const sql = `
     UPDATE trip
-    SET Destination = ?, Start_date = ?, End_date = ?, Cost = ?, Guide_required = ?
+    SET Destination = ?, Start_date = ?, End_date = ?, Cost = ?, Guide_required = ?, Travel_type = ?, Language = ?
     WHERE Trip_id = ?
   `;
 
-  const values = [Destination, Start_date, End_date, Cost, Guide_required, tripId];
+  const values = [Destination, Start_date, End_date, Cost, Guide_required, Travel_type, Language, tripId];
 
   db.query(sql, values, (err, result) => {
     if (err) {

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import './HomePage.css';
 import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css';
@@ -22,6 +22,14 @@ function HomePage() {
     guideRequired: false,
   });
 
+  const [destinations, setDestinations] = useState([]);
+
+  useEffect(() => {
+    axios.get('http://localhost:5000/api/routes/destinations')
+      .then(res => setDestinations(res.data))
+      .catch(err => console.error('Ошибка загрузки направлений:', err));
+  }, []);
+
   const handleChange = (e) => {
     const { name, value, type, checked } = e.target;
     setFormData((prev) => ({
@@ -30,33 +38,16 @@ function HomePage() {
     }));
   };
 
-  const formatDate = (date) => {
-    return new Date(date).toISOString().slice(0, 10);
-  };
-
-  const handleSubmit = async (e) => {
+  const handleSubmit = (e) => {
     e.preventDefault();
-
-    const user = JSON.parse(localStorage.getItem('user'));
-
-    const payload = {
+    const params = new URLSearchParams({
       destination: formData.destination,
-      startDate: formatDate(formData.startDate),
-      endDate: formatDate(formData.endDate),
-      cost: formData.budget,
+      budget: formData.budget,
+      travelType: formData.travelType,
+      language: formData.language,
       guideRequired: formData.guideRequired,
-      userId: user?.User_id,
-      guideId: 1,
-    };
-
-    console.log('➡️ Отправляем данные в trips:', payload);
-
-    try {
-      const response = await axios.post('http://localhost:5000/api/trips', payload);
-      navigate('/trips', { state: { tripData: response.data } });
-    } catch (error) {
-      console.error('❌ Ошибка при сохранении поездки:', error);
-    }
+    });
+    navigate(`/search?${params.toString()}`);
   };
 
   return (
@@ -64,21 +55,25 @@ function HomePage() {
       <div className="hero-section">
         <div className="hero-overlay">
           <div className="hero-text">
-            <h1>Планируй путешествие своей мечты</h1>
+            <h1>Найди путешествие своей мечты</h1>
             <p>Укажи направление, дату, язык и предпочтения</p>
           </div>
 
           <form className="travel-form" onSubmit={handleSubmit}>
             <label>
               Пункт назначения:
-              <input
-                type="text"
+              <select
                 name="destination"
                 value={formData.destination}
                 onChange={handleChange}
-                required
-              />
+              >
+                <option value="">Выбрать</option>
+                {destinations.map((city, idx) => (
+                  <option key={idx} value={city}>{city}</option>
+                ))}
+              </select>
             </label>
+
             <label>
               Дата начала:
               <DatePicker
@@ -89,6 +84,7 @@ function HomePage() {
                 placeholderText="дд.мм.гггг"
               />
             </label>
+
             <label>
               Дата окончания:
               <DatePicker
@@ -99,6 +95,7 @@ function HomePage() {
                 placeholderText="дд.мм.гггг"
               />
             </label>
+
             <label>
               Бюджет (₽):
               <input
@@ -108,6 +105,7 @@ function HomePage() {
                 onChange={handleChange}
               />
             </label>
+
             <label>
               Тип путешествия:
               <select
@@ -122,6 +120,7 @@ function HomePage() {
                 <option value="culture">Культура</option>
               </select>
             </label>
+
             <label>
               Язык:
               <select
@@ -134,6 +133,7 @@ function HomePage() {
                 <option value="en">Английский</option>
               </select>
             </label>
+
             <label className="checkbox-field">
               Нужен гид
               <input
@@ -143,7 +143,8 @@ function HomePage() {
                 onChange={handleChange}
               />
             </label>
-            <button type="submit">Запланировать</button>
+
+            <button type="submit">Найти маршрут</button>
           </form>
         </div>
       </div>
@@ -175,6 +176,7 @@ function HomePage() {
           </div>
         </div>
       </section>
+
       <div className="map-section">
         <iframe
           className="map-iframe"

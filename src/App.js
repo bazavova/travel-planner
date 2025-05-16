@@ -6,6 +6,7 @@ import RegisterPage from './pages/RegisterPage.jsx';
 import TripsPage from './pages/TripsPage.jsx';
 import ProfilePage from './pages/ProfilePage.jsx';
 import Footer from './components/Footer.jsx';
+import SearchPage from './pages/SearchPage.jsx';
 import './App.css';
 
 function App() {
@@ -29,6 +30,7 @@ function App() {
             <div className="nav-links">
               <Link to="/">Главная</Link> |{" "}
               <Link to="/trips">Поездки</Link> |{" "}
+              <Link to="/search">Поиск</Link> |{" "}
               <Link to="/profile">Профиль</Link>
             </div>
           </nav>
@@ -47,6 +49,7 @@ function App() {
                 <Route path="/" element={<HomePage />} />
                 <Route path="/trips" element={<TripsPage />} />
                 <Route path="/profile" element={<ProfilePage />} />
+                <Route path="/search" element={<SearchPage />} />
                 <Route path="*" element={<Navigate to="/" />} />
               </>
             )}

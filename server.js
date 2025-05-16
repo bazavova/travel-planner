@@ -4,7 +4,8 @@ import cors from 'cors';
 import registerRoutes from './server/routes/register.js';
 import tripRoutes from './server/routes/trips.js';
 import authRoutes from './server/routes/auth.js';
-import userRoutes from './server/routes/user.js'; // ✅ добавили маршрут для профиля
+import userRoutes from './server/routes/user.js'; 
+import routeRoutes from './server/routes/routes.js';
 
 const app = express();
 
@@ -16,7 +17,8 @@ app.use(express.json());
 app.use('/api/register', registerRoutes);
 app.use('/api/trips', tripRoutes);
 app.use('/api/login', authRoutes);
-app.use('/api/user', userRoutes); // ✅ новый маршрут
+app.use('/api/user', userRoutes);
+app.use('/api/routes', routeRoutes); 
 
 const PORT = 5000;
 app.listen(PORT, () => {
