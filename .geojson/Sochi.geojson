@@ -1,0 +1,1414 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-05-17T21:29:59Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/53084769",
+        "addr:city": "Сочи",
+        "addr:housenumber": "74/5",
+        "addr:street": "Курортный проспект",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Вилла \"Надежда\"",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7425087,
+          43.5702241
+        ]
+      },
+      "id": "way/53084769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/114940185",
+        "landuse": "recreation_ground",
+        "leisure": "park",
+        "name": "Парк аттракционов",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8664113,
+          43.5123971
+        ]
+      },
+      "id": "way/114940185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183584230",
+        "building": "yes",
+        "name": "Мавританская беседка",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7426522,
+          43.5689835
+        ]
+      },
+      "id": "way/183584230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/201078054",
+        "building": "yes",
+        "name": "Конно-спортивный клуб Кентавр",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8010828,
+          43.5786616
+        ]
+      },
+      "id": "way/201078054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/257863641",
+        "attraction": "big_wheel",
+        "name": "Колесо обозрения",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3273435,
+          43.905675
+        ]
+      },
+      "id": "way/257863641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305706193",
+        "name": "Сталагмит",
+        "name:en": "Stalagmite",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7250155,
+          43.5793114
+        ]
+      },
+      "id": "way/305706193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316504874",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7165241,
+          43.5916187
+        ]
+      },
+      "id": "way/316504874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/481611973",
+        "addr:postcode": "354204",
+        "addr:suburb": "Совет-Квадже",
+        "bridge": "yes",
+        "bridge:structure": "arch",
+        "highway": "residential",
+        "lanes": "1",
+        "layer": "1",
+        "material": "stone",
+        "maxspeed": "20",
+        "name": "Высокая улица",
+        "surface": "asphalt",
+        "tourism": "attraction",
+        "width": "15",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.229813,
+          43.9872993
+        ]
+      },
+      "id": "way/481611973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/660105353",
+        "name": "Боксёрская груша",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.727494,
+          43.6049168
+        ]
+      },
+      "id": "node/660105353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/681881626",
+        "name": "Ленин 100",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5798189,
+          43.7121284
+        ]
+      },
+      "id": "way/681881626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/872382483",
+        "archaeological_site": "fortification",
+        "historic": "archaeological_site",
+        "image": "https://avatars.mds.yandex.net/get-altay/4404605/2a000001782a0108d0aba7d8b307d044e672/XXXL",
+        "name": "Крепость Багу (Годлик)",
+        "tourism": "attraction",
+        "wikidata": "Q4141155",
+        "wikipedia": "ru:Годлик (крепость)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3957427,
+          43.8613111
+        ]
+      },
+      "id": "way/872382483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/960403899",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "dolmen",
+        "name": "Дольмен",
+        "name:ru": "Дольмен",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4125437,
+          43.8751599
+        ]
+      },
+      "id": "node/960403899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/960403904",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "dolmen",
+        "name": "Дольмен",
+        "name:ru": "Дольмен",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4088019,
+          43.8704478
+        ]
+      },
+      "id": "node/960403904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1040744381",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "dolmen",
+        "name": "Мухортова поляна, дольмен",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2746057,
+          43.9775892
+        ]
+      },
+      "id": "node/1040744381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1287663958",
+        "name": "Затерянный мир",
+        "note": "Динозавры",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.899968,
+          43.4665828
+        ]
+      },
+      "id": "way/1287663958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1342191640",
+        "historic": "memorial",
+        "image": "https://avatars.mds.yandex.net/get-altay/5477999/2a0000017ea8ac5f1a1ef015a4bb2208dc69/XXXL",
+        "inscription": "В честь 50-летия Победы\n1945-1995\nЛазаревцам-героям и жертвам Великой отечественной. Низкий поклон вам и вечная память",
+        "memorial": "war_memorial",
+        "name": "В ознаименование 50-летия Великой Победы. 1945-1995",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3308062,
+          43.9075195
+        ]
+      },
+      "id": "node/1342191640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1404330627",
+        "name": "Тюльпановое дерево",
+        "natural": "tree",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4620158,
+          43.7926421
+        ]
+      },
+      "id": "node/1404330627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1820188810",
+        "name": "Лесовик из дерева",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3205579,
+          43.932934
+        ]
+      },
+      "id": "node/1820188810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1820188815",
+        "description": "Кресло, пушка, фигуры зверей. Все из дерева",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3203054,
+          43.9328964
+        ]
+      },
+      "id": "node/1820188815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1820724266",
+        "fee": "yes",
+        "name": "Гнездо дракона",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3206629,
+          43.9330677
+        ]
+      },
+      "id": "node/1820724266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2025020791",
+        "name": "Мозаика \"Ленин\"",
+        "name:de": "Lenin-Mosaik",
+        "name:en": "Lenin Mosaic",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7153617,
+          43.5875578
+        ]
+      },
+      "id": "node/2025020791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2629498323",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2156108,
+          43.9938042
+        ]
+      },
+      "id": "node/2629498323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4102079289",
+        "name": "Сырный камень",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7833484,
+          43.5611757
+        ]
+      },
+      "id": "node/4102079289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4204161790",
+        "name": "Павлин (клумба)",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7438691,
+          43.5734298
+        ]
+      },
+      "id": "node/4204161790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213894723",
+        "name": "Гномы",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7417689,
+          43.5707177
+        ]
+      },
+      "id": "node/4213894723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213894727",
+        "name": "Маша и медведь",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7426078,
+          43.574646
+        ]
+      },
+      "id": "node/4213894727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4213894728",
+        "name": "Мозаика \"Мать и дитя\"",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7421498,
+          43.5707712
+        ]
+      },
+      "id": "node/4213894728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271229091",
+        "addr:city": "Сочи",
+        "addr:housenumber": "2/5а",
+        "addr:postcode": "354002",
+        "addr:street": "Курортный проспект",
+        "name": "Сад-музей \"Дерево дружбы\"",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7475689,
+          43.5670898
+        ]
+      },
+      "id": "node/4271229091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271241990",
+        "name": "Японский садик",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7426229,
+          43.5712881
+        ]
+      },
+      "id": "node/4271241990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535240490",
+        "addr:postcode": "354000",
+        "email": "brokerage@europe.com",
+        "name": "ООО \"ИгорьМарин\"",
+        "office": "yes",
+        "opening_hours": "24/7",
+        "phone": "+7 952 9781125",
+        "tourism": "attraction",
+        "website": "http://m.vk.com/Igormarine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7184742,
+          43.5815609
+        ]
+      },
+      "id": "node/4535240490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5021582521",
+        "name": "Вольер с попугаями",
+        "name:ru": "Вольер с попугаями",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7404885,
+          43.5728311
+        ]
+      },
+      "id": "node/5021582521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5021599022",
+        "name": "Лебеди",
+        "name:ru": "Лебеди",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7405351,
+          43.573478
+        ]
+      },
+      "id": "node/5021599022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5021640721",
+        "name": "Страусы",
+        "name:ru": "Страусы",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7405126,
+          43.5715752
+        ]
+      },
+      "id": "node/5021640721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5021650123",
+        "name": "Подвесной мост",
+        "name:ru": "Подвесной мост",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7418504,
+          43.570522
+        ]
+      },
+      "id": "node/5021650123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5021680123",
+        "name": "Агава",
+        "name:ru": "Агава",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7427107,
+          43.570899
+        ]
+      },
+      "id": "node/5021680123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5646289137",
+        "name": "Поляна гномов в Мацестинской долине",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7981248,
+          43.5538403
+        ]
+      },
+      "id": "node/5646289137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6331080586",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6996361,
+          43.6328872
+        ]
+      },
+      "id": "node/6331080586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7169184154",
+        "attraction": "carousel",
+        "name": "Карусель цепочная",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9139526,
+          43.4336444
+        ]
+      },
+      "id": "node/7169184154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7169184156",
+        "attraction": "jumping_castle",
+        "name": "Супер джампинг",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9137684,
+          43.4334015
+        ]
+      },
+      "id": "node/7169184156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7169184157",
+        "name": "Звёздный экспресс",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9138623,
+          43.4332254
+        ]
+      },
+      "id": "node/7169184157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7169184160",
+        "name": "Сказка",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9133382,
+          43.4331656
+        ]
+      },
+      "id": "node/7169184160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7169184161",
+        "name": "Ассорти",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9133332,
+          43.4332632
+        ]
+      },
+      "id": "node/7169184161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7169184165",
+        "name": "Сказочная дорога",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9133595,
+          43.4330412
+        ]
+      },
+      "id": "node/7169184165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7169184166",
+        "name": "Пилот",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9135778,
+          43.432953
+        ]
+      },
+      "id": "node/7169184166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7169184168",
+        "name": "Тропик",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9133291,
+          43.4329802
+        ]
+      },
+      "id": "node/7169184168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7169184171",
+        "name": "Веселое путешествие",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9145232,
+          43.4324854
+        ]
+      },
+      "id": "node/7169184171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7821084485",
+        "name": "Подвесной мост через реку Псезуапсе",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3526413,
+          43.9161133
+        ]
+      },
+      "id": "node/7821084485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8287056717",
+        "name": "Дача Хлудова",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7146375,
+          43.5900948
+        ]
+      },
+      "id": "node/8287056717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8331996317",
+        "fixme": "Что это? Определить через теги - или добавить description",
+        "name": "Арки Санта Барбара",
+        "name:ru": "Арки Санта Барбара",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8172215,
+          43.5326049
+        ]
+      },
+      "id": "node/8331996317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8569837582",
+        "name": "Санаторий «Москва»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7392226,
+          43.5725229
+        ]
+      },
+      "id": "node/8569837582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8766918019",
+        "name": "Аэропорт",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9424349,
+          43.4439934
+        ]
+      },
+      "id": "node/8766918019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9410071548",
+        "fixme": "Что это? Уточнить тегами",
+        "name": "2022",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9500844,
+          43.4510831
+        ]
+      },
+      "id": "node/9410071548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9634932117",
+        "name": "Бытха обзорная",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7702162,
+          43.5671611
+        ]
+      },
+      "id": "node/9634932117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9740891117",
+        "name": "ПТИЧНИКЪ",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6336077,
+          43.6699978
+        ]
+      },
+      "id": "node/9740891117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9740897219",
+        "name": "Дача Е. В. Павлова",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6325231,
+          43.6700151
+        ]
+      },
+      "id": "node/9740897219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9772836618",
+        "addr:housenumber": "107",
+        "addr:street": "Курортный проспект",
+        "name": "Морской вокзал Мацеста",
+        "name:en": "Marine station Matsesta",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7889126,
+          43.5441946
+        ]
+      },
+      "id": "node/9772836618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9805947297",
+        "description": "Въездной знак",
+        "image": "https://avatars.mds.yandex.net/get-altay/5517178/2a0000017ea8d455fc89e8707248cc3949e8/XXXL",
+        "name": "Берендеево царство",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3109491,
+          43.9481166
+        ]
+      },
+      "id": "node/9805947297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9805963206",
+        "image": "https://avatars.mds.yandex.net/get-altay/4336337/2a00000179755230d36f90b2f05578e25827/XXXL",
+        "name": "Лестница Шереметева",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5970028,
+          43.687992
+        ]
+      },
+      "id": "node/9805963206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9806091959",
+        "description": "Самый высоко расположенный от земли мост в России: высота его опор — 80 метров. Длина — 576 м. Эстакада сократила горный серпантин длиной 4 км, спускающийся с высоты 80 м до реки Чемитоквадже и поднимающийся обратно, до прямой дороги в 700 м.",
+        "ele": "80",
+        "name": "Виадук Зубова Щель",
+        "tourism": "attraction",
+        "wikidata": "Q4194394",
+        "wikipedia": "ru:Зубова Щель (виадук)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.424369,
+          43.8307447
+        ]
+      },
+      "id": "node/9806091959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10589178007",
+        "name": "Дача Картавцева",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8499669,
+          43.5344426
+        ]
+      },
+      "id": "node/10589178007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11007606805",
+        "addr:street": "The path to the sea",
+        "name": "Нудистский пляж \"Спутник\"",
+        "name:en": "Nudist beach",
+        "name:ru": "Нудистский пляж \"Спутник\"",
+        "opening_hours": "24/7",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8118115,
+          43.5349291
+        ]
+      },
+      "id": "node/11007606805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11099290105",
+        "name": "Дольмен",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4156555,
+          43.8425095
+        ]
+      },
+      "id": "node/11099290105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11522486773",
+        "name": "Старый железнодорожный светофор",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7924217,
+          43.548666
+        ]
+      },
+      "id": "node/11522486773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11524787255",
+        "name": "Большой валун",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7979499,
+          43.5612626
+        ]
+      },
+      "id": "node/11524787255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11524787258",
+        "name": "Тренажёры",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8000641,
+          43.5583324
+        ]
+      },
+      "id": "node/11524787258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11524829830",
+        "name": "Кран",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8005732,
+          43.5586956
+        ]
+      },
+      "id": "node/11524829830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11634232453",
+        "name": "Черешневый сад",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7202536,
+          43.5812473
+        ]
+      },
+      "id": "node/11634232453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11634232456",
+        "name": "Дольмен",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7219987,
+          43.5799051
+        ]
+      },
+      "id": "node/11634232456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11634232457",
+        "name": "Дольмен",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7262631,
+          43.5775142
+        ]
+      },
+      "id": "node/11634232457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11635568291",
+        "name": "Бассейн",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7986136,
+          43.560802
+        ]
+      },
+      "id": "node/11635568291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11635568296",
+        "name": "Бугор",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7970544,
+          43.5574498
+        ]
+      },
+      "id": "node/11635568296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11635568303",
+        "name": "Колодец",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7996122,
+          43.5594945
+        ]
+      },
+      "id": "node/11635568303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11652839372",
+        "name": "Центральный пляж Дагомыса",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6486779,
+          43.65161
+        ]
+      },
+      "id": "node/11652839372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11652877744",
+        "name": "Пляж оздоровительного комплекса «Дагомыс»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6553141,
+          43.6491086
+        ]
+      },
+      "id": "node/11652877744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11748874469",
+        "name": "вилла Вера",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7263732,
+          43.5809072
+        ]
+      },
+      "id": "node/11748874469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11841250369",
+        "name": "Воздушные корни болотного кипариса",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7426902,
+          43.571431
+        ]
+      },
+      "id": "node/11841250369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11841327573",
+        "name": "Секвойная роща",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7426909,
+          43.5748522
+        ]
+      },
+      "id": "node/11841327573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11841454671",
+        "name": "Китайский дворик",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7444239,
+          43.5723398
+        ]
+      },
+      "id": "node/11841454671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11891870754",
+        "name": "Вечный огонь",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7304786,
+          43.5881472
+        ]
+      },
+      "id": "node/11891870754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12066722050",
+        "name": "Оползень",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7505658,
+          43.6196351
+        ]
+      },
+      "id": "node/12066722050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12088275837",
+        "name": "Клетки с животными",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7469459,
+          43.6181306
+        ]
+      },
+      "id": "node/12088275837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12730607367",
+        "name": "Слоник",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7324841,
+          43.5965832
+        ]
+      },
+      "id": "node/12730607367"
+    }
+  ]
+}

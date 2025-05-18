@@ -47,7 +47,13 @@ router.get('/search', (req, res) => {
 
 // 📌 Получение всех маршрутов (для фильтрации на клиенте)
 router.get('/', (req, res) => {
-  db.query('SELECT * FROM Route', (err, rows) => {
+  const sql = `
+    SELECT r.*, c.City AS Destination
+    FROM Route r
+    JOIN City c ON r.City_id = c.City_id
+  `;
+
+  db.query(sql, (err, rows) => {
     if (err) {
       console.error('❌ Ошибка при получении маршрутов:', err);
       return res.status(500).json({ message: 'Ошибка сервера' });
@@ -56,9 +62,16 @@ router.get('/', (req, res) => {
   });
 });
 
-// 📍 Получение уникальных пунктов назначения
+// 📍 Получение уникальных пунктов назначения, отсортированных по алфавиту
 router.get('/destinations', (req, res) => {
-  db.query('SELECT DISTINCT Destination FROM Route', (err, rows) => {
+  const sql = `
+  SELECT DISTINCT c.City AS Destination
+  FROM Route r
+  JOIN City c ON r.City_id = c.City_id
+  ORDER BY c.City
+`;
+
+  db.query(sql, (err, rows) => {
     if (err) {
       console.error('❌ Ошибка при получении направлений:', err);
       return res.status(500).json({ message: 'Ошибка сервера' });
@@ -68,5 +81,6 @@ router.get('/destinations', (req, res) => {
     res.json(destinations);
   });
 });
+
 
 export default router;

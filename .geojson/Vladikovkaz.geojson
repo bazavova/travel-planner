@@ -1,0 +1,153 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-05-17T21:39:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5721009722",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6799187,
+          43.0207214
+        ]
+      },
+      "id": "node/5721009722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5721010121",
+        "name": "ВЛАДИКАВКАЗ светящаяся надпись",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6816,
+          43.0203105
+        ]
+      },
+      "id": "node/5721010121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7871977585",
+        "name": "Пешеходная улица",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6799228,
+          43.0346128
+        ]
+      },
+      "id": "node/7871977585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9085489717",
+        "name": "Вид",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6759353,
+          43.0273095
+        ]
+      },
+      "id": "node/9085489717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9946917725",
+        "description": "Железный круг в брусчатке со схемой древней крепости Владикавказ",
+        "name": "Крепость Владикавказ",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6813829,
+          43.025253
+        ]
+      },
+      "id": "node/9946917725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10174666617",
+        "name": "Гостиница Империал",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.680429,
+          43.0287215
+        ]
+      },
+      "id": "node/10174666617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10175935517",
+        "name": "дом общества взаимного кредита",
+        "name:ru": "Дом Общества взаимного кредита",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6804335,
+          43.0282436
+        ]
+      },
+      "id": "node/10175935517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10175937117",
+        "name": "здание гостиницы «Париж»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6813086,
+          43.0284083
+        ]
+      },
+      "id": "node/10175937117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10175952817",
+        "name": "Доходный дом Воробьева",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.683166,
+          43.0268164
+        ]
+      },
+      "id": "node/10175952817"
+    }
+  ]
+}

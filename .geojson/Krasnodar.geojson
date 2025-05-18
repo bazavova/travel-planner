@@ -1,0 +1,6437 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-05-17T21:34:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1335480",
+        "addr2:housenumber": "65",
+        "addr2:street": "Гимназическая улица",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "58",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "architect": "А. А. Козлов",
+        "building": "business",
+        "building:architecture": "modern",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Гостиница \"Централь\" братьев Х. П. и К. П. Богарсуковых, 1870-е годы, 1910 г. архитектор А. А. Козлов",
+        "historic": "building",
+        "name": "Централь",
+        "old_name": "Гостиница \"Централь\" братьев Богарсуковых",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9712203,
+          45.025487
+        ]
+      },
+      "id": "relation/1335480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1433730",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "166",
+        "addr:street": "Красная улица",
+        "amenity": "university",
+        "building": "university",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Женская учительская семинария, 1910 - 1915 годы",
+        "education": "university",
+        "education_level:higher": "yes",
+        "education_profile:professional": "yes",
+        "education_system:ru_standard": "yes",
+        "historic": "building",
+        "name": "Учебный корпус КубГТУ",
+        "old_name": "Женская учительская семинария",
+        "start_date": "1915",
+        "tourism": "attraction",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9771119,
+          45.0410707
+        ]
+      },
+      "id": "relation/1433730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2180151",
+        "addr:housenumber": "5",
+        "addr:postcode": "350063",
+        "addr:street": "Красная улица",
+        "architect": "О.Н. Кобзарь",
+        "building": "yes",
+        "description": "Памятник истории и культуры. Дом политпросвещения, 1977 г., архитектор О.Н. Кобзарь",
+        "name": "Центральный концертный зал Кубанского казачьего хора",
+        "old_name": "Дом политпросвещения",
+        "start_date": "1977",
+        "tourism": "attraction",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9669093,
+          45.0169284
+        ]
+      },
+      "id": "relation/2180151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2746820",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "3",
+        "addr:postcode": "350063",
+        "addr:street": "Красная улица",
+        "architect": "А.Н. Стемальщук",
+        "building": "yes",
+        "building:levels": "4",
+        "description": "Памятник истории и культуры. Окружной суд, 1896 г., реконструкция 1949 - 1953 годы, архитектор А.Н. Стемальщук. Здесь располагались ЦИК Кубано-Черноморской и Северо-Кавказской Советских Социалистических республик, 1918 г.",
+        "fire_operator": "RU-KDA-12-1",
+        "fire_rank": "2",
+        "government": "yes",
+        "historic": "building",
+        "name": "Законодательное собрание Краснодарского края",
+        "office": "government",
+        "old_name": "Окружной суд. 1896г.",
+        "start_date": "1896",
+        "tourism": "attraction",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9661395,
+          45.015781
+        ]
+      },
+      "id": "relation/2746820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2814941",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "61",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красноармейская улица",
+        "architect": "А. А. Козлов",
+        "building": "administrative",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Пятая женская гимназия Хрусталевой, 1906 - 1910 годы",
+        "historic": "school",
+        "old_name": "Пятая женская гимназия Хрусталевой",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9738916,
+          45.0297755
+        ]
+      },
+      "id": "relation/2814941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/8303517",
+        "natural": "beach",
+        "tourism": "attraction",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9568788,
+          45.018157
+        ]
+      },
+      "id": "relation/8303517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30988007",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "25",
+        "addr:postcode": "350063",
+        "addr:street": "Красноармейская улица",
+        "building": "administrative",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Здание 4-й женской гимназии, 1890 - 1900 годы",
+        "historic": "building",
+        "old_name": "Здание 4-й женской гимназии",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9712807,
+          45.0212016
+        ]
+      },
+      "id": "way/30988007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30988010",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "42",
+        "addr:postcode": "350063",
+        "addr:street": "Красная улица",
+        "architect": "В.А. Филиппов",
+        "building": "administrative",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Клуб Общественного собрания, 1871 г.",
+        "historic": "building",
+        "old_name": "Флигель Клуба Общественного собрания",
+        "start_date": "1871",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9698002,
+          45.0212196
+        ]
+      },
+      "id": "way/30988010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30988018",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "35",
+        "addr:postcode": "350000",
+        "addr:street": "Красноармейская улица",
+        "building": "college",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Городское училище, конец XIX в. Здесь учился писатель Ф.В. Гладков, 1897 - 1901 годы",
+        "historic": "building",
+        "name": "Краснодарский торгово-экономический колледж",
+        "old_name": "Городское училище",
+        "start_date": "1897",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9717907,
+          45.0233482
+        ]
+      },
+      "id": "way/30988018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30988034",
+        "addr:housenumber": "161",
+        "addr:postcode": "350002",
+        "addr:street": "улица Будённого",
+        "architect": "И. К. Мальгерб",
+        "building": "university",
+        "building:levels": "4",
+        "description": "Памятник истории и культуры. Коммерческое училище, архитектор И. К. Мальгерб",
+        "fire_operator": "RU-KDA-12-1",
+        "fire_rank": "2",
+        "historic": "building",
+        "old_name": "Коммерческое училище",
+        "start_date": "1913",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9819546,
+          45.0353066
+        ]
+      },
+      "id": "way/30988034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30988071",
+        "addr2:housenumber": "354",
+        "addr2:street": "Северная улица",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "160",
+        "addr:street": "Красная улица",
+        "building": "yes",
+        "building:architecture": "modern",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Доходный дом Э.Г. Шишман, 1914 - 1915 годы",
+        "historic": "building",
+        "name": "ELS SMART | Студия Английского Языка",
+        "old_name": "Доходный дом Э.Г. Шишман",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9764975,
+          45.0397809
+        ]
+      },
+      "id": "way/30988071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30988072",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "169",
+        "addr:street": "Красная улица",
+        "amenity": "cinema",
+        "building": "yes",
+        "building:levels": "3",
+        "building:min_level": "2",
+        "description": "Памятник истории и культуры. Кинотеатр \"Аврора\", 1967 г., архитектор Е.А. Сердюков",
+        "fire_operator": "RU KDA-12-2",
+        "fire_rank": "2",
+        "name": "Кинотеатр «Аврора»",
+        "name:en": "Avrora",
+        "name:ru": "Кинотеатр «Аврора»",
+        "start_date": "1967",
+        "tourism": "attraction",
+        "wikidata": "Q4056058",
+        "wikipedia": "ru:Аврора (кинотеатр, Краснодар)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9825394,
+          45.0580861
+        ]
+      },
+      "id": "way/30988072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/31150087",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "39",
+        "addr:postcode": "350000",
+        "addr:street": "улица Орджоникидзе",
+        "amenity": "bank",
+        "architect": "Н.М. Козо-Полянский, М.И. Рыбкин",
+        "building": "administrative",
+        "building:architecture": "modern",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Общество взаимного кредита, 1913 г., архитектор Н.М. Козо-Полянский, авторы фасада архитектор М.И. Рыбкин и академик И.Л. Калмыков",
+        "historic": "building",
+        "name": "ГРКЦ ЦБ",
+        "old_name": "Общество взаимного кредита",
+        "start_date": "1913",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9705675,
+          45.0224307
+        ]
+      },
+      "id": "way/31150087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/35475820",
+        "addr:country": "RU",
+        "addr:housenumber": "6",
+        "addr:postcode": "350063",
+        "addr:street": "Красная улица",
+        "architect": "А.А. Козлов",
+        "building": "yes",
+        "building:architecture": "modern",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Дом доходный подрядчика Ф.Н. Акулова, 1911 г., архитектор А.А. Козлов. Здесь размещался штаб Красной гвардии по обороне Екатеринодара, 1918 г.",
+        "historic": "manor",
+        "old_name": "Дом доходный подрядчика Ф.Н. Акулова, 1911 г.",
+        "start_date": "1911",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9681316,
+          45.0164165
+        ]
+      },
+      "id": "way/35475820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/35475822",
+        "addr:country": "RU",
+        "addr:housenumber": "8",
+        "addr:postcode": "350063",
+        "addr:street": "Красная улица",
+        "alt_name": "Библиотека им. Пушкина",
+        "amenity": "library",
+        "architect": "Н. Козо-Полянскиq и Л. Эберг",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Армянская школа им. Б.В. Чарачева, 1907 - 1910 годы, архитектор Н.М. Козо-Полянский, реконструкция, 1951 - 1956 годы, архитектор Л.Ф. Эберг, архитектор А.Н. Ожиганов",
+        "fire_operator": "RU-KDA-12-1",
+        "fire_rank": "2",
+        "historic": "building",
+        "name": "Краснодарская краевая универсальная научная библиотека им. А.С. Пушкина",
+        "old_name": "Армянская школа им. Б.В. Чарачева",
+        "opening_hours": "Sa-Th 09:30-19:00; Fr off",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "wikidata": "Q16536963",
+        "wikipedia": "ru:Краснодарская краевая универсальная научная библиотека имени А. С. Пушкина",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.968678,
+          45.0168099
+        ]
+      },
+      "id": "way/35475822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/35475830",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "4",
+        "addr:postcode": "350063",
+        "addr:street": "Красноармейская улица",
+        "architect": "В. Фофанов",
+        "building": "administration",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Дом жилой, 1924 - 1926 годы, архитектор В. Фофанов",
+        "historic": "house",
+        "old_name": "Дом жилой, 1924 - 1926 годы",
+        "start_date": "1926",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9700622,
+          45.0161122
+        ]
+      },
+      "id": "way/35475830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/35475833",
+        "addr:country": "RU",
+        "addr:housenumber": "3",
+        "addr:postcode": "350063",
+        "addr:street": "улица Коммунаров",
+        "architect": "В.Е. Ерофалов",
+        "building": "residential",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Дом жилой кооперативный, 1925 г., архитектор В.Е. Ерофалов",
+        "heritage": "yes",
+        "historic": "house",
+        "old_name": "Дом жилой кооперативный, 1925 г.",
+        "start_date": "1925",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9715726,
+          45.0158812
+        ]
+      },
+      "id": "way/35475833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/35475942",
+        "addr2:housenumber": "41",
+        "addr2:street": "Советская улица",
+        "addr:housenumber": "7",
+        "addr:postcode": "350063",
+        "addr:street": "Красноармейская улица",
+        "architect": "Николай Митрофанович Козо-Полянски",
+        "building": "school",
+        "building:levels": "2",
+        "contact:email": "school8@kubannet.ru",
+        "contact:phone": "+7 861 2685344",
+        "description": "Памятник истории и культуры. Армянское церковно-приходское попечительство, 1913 г., архитектор Н.М. Козо-Полянский",
+        "historic": "church",
+        "name": "Школа №8",
+        "old_name": "Армянское церковно-приходское попечительство",
+        "start_date": "1913",
+        "tourism": "attraction",
+        "website": "http://www.school08.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9701007,
+          45.0178851
+        ]
+      },
+      "id": "way/35475942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/35476092",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "18",
+        "addr:postcode": "350063",
+        "addr:street": "Красная улица",
+        "building": "yes",
+        "building:levels": "2",
+        "historic": "house",
+        "old_name": "Дом купца М.С. Кузнецова",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9688024,
+          45.0187313
+        ]
+      },
+      "id": "way/35476092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/35476209",
+        "addr2:housenumber": "16",
+        "addr2:street": "Рашпилевская улица",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "44",
+        "addr:postcode": "350063",
+        "addr:street": "Комсомольская улица",
+        "amenity": "hospital",
+        "building": "yes",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Здание Кубанского правления и дом писарей, конец XIX в. - начало XX в. Здание, в котором размещалась типография органа Кубисполкома газеты \"Известия\", 1918 г.",
+        "fire_operator": "RU-KDA-12-1",
+        "fire_rank": "2",
+        "health_facility:type": "hospital",
+        "health_specialty:gynaecology": "main",
+        "healthcare": "hospital",
+        "healthcare:speciality": "maternity",
+        "historic": "building",
+        "medical_system:western": "yes",
+        "name": "Родильный дом №4",
+        "old_name": "Здание Кубанского правления и дом писарей",
+        "provided_for:female": "yes",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9670283,
+          45.0193769
+        ]
+      },
+      "id": "way/35476209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/35605249",
+        "addr2:housenumber": "43",
+        "addr2:street": "Советская улица",
+        "addr:country": "RU",
+        "addr:housenumber": "10",
+        "addr:postcode": "350063",
+        "addr:street": "Красноармейская улица",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Склад табачной фабрики, 1890 - 1895 годы",
+        "historic": "building",
+        "old_name": "Склад табачной фабрики",
+        "start_date": "1895",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9707076,
+          45.0177282
+        ]
+      },
+      "id": "way/35605249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/35605309",
+        "addr:country": "RU",
+        "addr:housenumber": "24",
+        "addr:postcode": "350063",
+        "addr:street": "Красная улица",
+        "architect": "В.А. Филиппов",
+        "building": "residential",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Дом жилой С.С. Бейма, 1900 - 1901 годы, архитектор В.А. Филиппов",
+        "historic": "house",
+        "old_name": "Дом жилой С.С. Бейма",
+        "start_date": "1901",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9691408,
+          45.0198518
+        ]
+      },
+      "id": "way/35605309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37283966",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "4",
+        "addr:postcode": "350035",
+        "addr:street": "улица Красина",
+        "building": "yes",
+        "building:levels": "7",
+        "description": "Памятник истории и культуры. Мариинский институт благородных девиц, 1906 - 1909 годы, архитектор А.П. Косякин",
+        "historic": "building",
+        "name": "Учебный корпус",
+        "old_name": "Мариинский институт благородных девиц",
+        "start_date": "1909",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9619871,
+          45.0127122
+        ]
+      },
+      "id": "way/37283966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37298893",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "13",
+        "addr:street": "улица Николая Кондратенко",
+        "architect": "А.П. Косякин",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой архитектора А.П. Косякина, 1906 - 1910 годы",
+        "heritage": "4",
+        "historic": "building",
+        "old_name": "Дом жилой архитектора А.П. Косякина",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "wikidata": "Q106803508",
+        "wikipedia": "ru:Дом архитектора А. П. Косякина",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9653456,
+          45.0143999
+        ]
+      },
+      "id": "way/37298893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/39531362",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "7 А",
+        "addr:postcode": "350020",
+        "addr:street": "Новокузнечная улица",
+        "building": "yes",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой А.Н. Нижмаева, 1912 г.",
+        "historic": "manor",
+        "old_name": "Дом жилой А.Н. Нижмаева, 1912 г.",
+        "start_date": "1912",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9752378,
+          45.0421023
+        ]
+      },
+      "id": "way/39531362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/40001846",
+        "addr2:housenumber": "70",
+        "addr2:street": "улица Гоголя",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "60",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красноармейская улица",
+        "building": "retail",
+        "building:levels": "2",
+        "building:material": "brick",
+        "description": "Памятник истории и культуры. Дом жилой с торговыми помещениями на первом этаже, 1900 - 1911 годы",
+        "historic": "house",
+        "name": "Дом кубанской журналистики",
+        "old_name": "Дом жилой 1900 - 1911 годы",
+        "start_date": "1911",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9735595,
+          45.0262263
+        ]
+      },
+      "id": "way/40001846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/40001869",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "58",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красноармейская улица",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой с торговыми помещениями на первом этаже, 1900 - 1911 годы",
+        "historic": "house",
+        "old_name": "Дом жилой 1900 - 1911 годы",
+        "start_date": "1911",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9733775,
+          45.02587
+        ]
+      },
+      "id": "way/40001869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/40002334",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "53",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красноармейская улица",
+        "architect": "О.И. Середа",
+        "building": "administrative",
+        "building:levels": "3",
+        "building:material": "brick",
+        "description": "Памятник истории и культуры. Здание артели \"Швейник\", арх. О.И. Середа, начало 1950-х годов",
+        "historic": "building",
+        "name": "Центр национальных культур",
+        "old_name": "Артель \"Швейник\"",
+        "roof:shape": "gabled",
+        "start_date": "1951",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.973598,
+          45.0283187
+        ]
+      },
+      "id": "way/40002334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/40002915",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "65",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Седина",
+        "building": "yes",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Швейная фабрика, 1912 г.",
+        "fire_operator": "RU-KDA-12-1",
+        "fire_rank": "2",
+        "historic": "building",
+        "name": "Александрия",
+        "start_date": "1912",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9771533,
+          45.0256045
+        ]
+      },
+      "id": "way/40002915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/40003199",
+        "addr2:housenumber": "91",
+        "addr2:street": "улица Гоголя",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "32",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Янковского",
+        "amenity": "doctors",
+        "building": "policlinic",
+        "description": "Памятник истории и культуры. Дом жилой, 1900 - 1911 годы. Здесь жил и работал поэт С.Я. Маршак, 1920 - 1922 годы",
+        "healthcare": "doctor",
+        "historic": "house",
+        "name": "Поликлиника №4",
+        "old_name": "Дом жилой, 1900 - 1911 годы.",
+        "start_date": "1911",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9798645,
+          45.0255114
+        ]
+      },
+      "id": "way/40003199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/40003462",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "57",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "architect": "И.К. Мальгерб",
+        "building": "administrative",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Дом Армянского благотворительного общества, 1911 г., архитектор И.К. Мальгерб",
+        "historic": "building",
+        "name": "Департамент развития бизнеса и внешнеэкономической деятельности Краснодарского края",
+        "old_name": "Дом Армянского благотворительного общества",
+        "start_date": "1911",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9710269,
+          45.0274882
+        ]
+      },
+      "id": "way/40003462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/40003466",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "70",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Карасунская улица",
+        "architect": "И.К. Мальгерб",
+        "building": "government",
+        "building:colour": "beige",
+        "building:levels": "2",
+        "building:material": "brick",
+        "description": "Памятник истории и культуры. Екатеринодарский городской общественный банк и сиротский суд, 1898 - 1900 годы, архитектор И.К. Мальгерб",
+        "historic": "building",
+        "name": "Приемная Президента РФ в Краснодарском крае",
+        "old_name": "Екатеринодарский городской общественный банк и сиротский суд",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9704038,
+          45.0283929
+        ]
+      },
+      "id": "way/40003466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45833782",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "1",
+        "addr:postcode": "350063",
+        "addr:street": "улица Коммунаров",
+        "building": "residential",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Дом жилой, кооперативный, 1924 г. Здесь жил герой гражданской войны Д.П. Жлоба, 1930 - 1937 годы",
+        "historic": "house",
+        "old_name": "Дом жилой, кооперативный",
+        "start_date": "1924",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9714592,
+          45.0153414
+        ]
+      },
+      "id": "way/45833782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45926647",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "52",
+        "addr:postcode": "350063",
+        "addr:street": "улица Мира",
+        "architect": "Н.П. Сухановская",
+        "building": "school",
+        "building:architecture": "modern",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Издательство \"Казбек\" С. Казарова, 1908 - 1910 годы, реконструкция, 1957 г., архитектор Н.П. Сухановская",
+        "historic": "building",
+        "name": "Школа №21",
+        "old_name": "Издательство \"Казбек\" С. Казарова",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9737287,
+          45.0198835
+        ]
+      },
+      "id": "way/45926647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45933350",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "27",
+        "addr:postcode": "350063",
+        "addr:street": "Красная улица",
+        "architect": "А.А. Козлов",
+        "building": "administrative",
+        "building:architecture": "modern",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Здание скетинг-ринка и электробиографа \"Мон Плезир\", 1911 г., архитекторы И.В. Рымаревич-Альтманский, А.А. Козлов; реконструкция 1959 г., архитектор А.В. Титов",
+        "historic": "building",
+        "old_name": "Здание скетинг-ринка и электробиографа \"Мон Плезир\"",
+        "start_date": "1911",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9690211,
+          45.0217442
+        ]
+      },
+      "id": "way/45933350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45940455",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "76",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "architect": "А.А. Козлов",
+        "building": "administrative",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Магазин братьев Богарсуковых, 1913 г., архитектор А.А.Козлов",
+        "historic": "building",
+        "old_name": "Магазин братьев Богарсуковых",
+        "start_date": "1913",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9725059,
+          45.0287283
+        ]
+      },
+      "id": "way/45940455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45940461",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "91",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "amenity": "university",
+        "building": "university",
+        "building:architecture": "eclectic",
+        "building:levels": "4",
+        "description": "Памятник истории и культуры. Дом Марии-Магдалинского женского монастыря, 1894 - 1897 годы",
+        "education": "university",
+        "education_level:higher": "yes",
+        "education_profile:professional": "yes",
+        "education_system:ru_standard": "yes",
+        "historic": "building",
+        "name": "Учебный корпус КубГТУ",
+        "old_name": "Дом Марии-Магдалинского женского монастыря",
+        "start_date": "1897",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9729258,
+          45.0327598
+        ]
+      },
+      "id": "way/45940461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45940471",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "93",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "architect": "М.Н. Ишунин",
+        "building": "yes",
+        "building:architecture": "modern",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Дом жилой, 1927 г., архитектор М.Н. Ишунин",
+        "historic": "house",
+        "old_name": "Дом жилой, 1927 г.",
+        "start_date": "1927",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9732189,
+          45.033326
+        ]
+      },
+      "id": "way/45940471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45940473",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "120",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Длинная улица",
+        "architect": "Н.Д. Малама",
+        "building": "administrative",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Баня купца М.М. Лихацкого, 1893 г., архитектор Н.Д. Малама",
+        "historic": "building",
+        "old_name": "Баня купца М.М. Лихацкого",
+        "start_date": "1893",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.974678,
+          45.0342902
+        ]
+      },
+      "id": "way/45940473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/46304134",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "42/1",
+        "addr:postcode": "350001",
+        "addr:street": "Воронежская улица",
+        "building": "yes",
+        "description": "Административный корпус войскового тюремного замка, архитектор В. А. Филиппов",
+        "old_name": "Административный корпус войскового тюремного замка",
+        "start_date": "1876",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0154805,
+          45.0053259
+        ]
+      },
+      "id": "way/46304134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78580692",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "13",
+        "addr:postcode": "350063",
+        "addr:street": "Красноармейская улица",
+        "building": "yes",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом доктора С.Д. Орлова, конец XIX в.",
+        "historic": "house",
+        "old_name": "Дом доктора С.Д. Орлова, конец XIX в.",
+        "start_date": "1890",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9704436,
+          45.0188745
+        ]
+      },
+      "id": "way/78580692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78687946",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "102",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Горького",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой 1900-е годы",
+        "historic": "house",
+        "name": "Прокуратура Краснодарского края",
+        "old_name": "Дом жилой 1900-е годы",
+        "start_date": "1901",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9735948,
+          45.0310796
+        ]
+      },
+      "id": "way/78687946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78687948",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "79",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "building": "administrative",
+        "building:architecture": "neo-renaissance",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой братьев Тарасовых с торговыми и конторскими помещениями на первом этаже, 1890 - 1900 годы",
+        "historic": "house",
+        "old_name": "Дом жилой братьев Тарасовых",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.971948,
+          45.0308504
+        ]
+      },
+      "id": "way/78687948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78687950",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "77",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Карасунская улица",
+        "building": "administrative",
+        "building:colour": "white",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Табачная фабрика, 1890 - 1900 годы. Дом доходный А.М. Виноградского, 1892",
+        "historic": "building",
+        "old_name": "Табачная фабрика",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9724392,
+          45.0283826
+        ]
+      },
+      "id": "way/78687950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78687962",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "104",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой Кононенко с торговыми помещениями на первом этаже, 1900 г.",
+        "historic": "house",
+        "old_name": "Дом жилой Кононенко",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9735307,
+          45.0324195
+        ]
+      },
+      "id": "way/78687962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78690587",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "86",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой с торговыми помещениями на первом этаже купца Купцова, 1891 г.",
+        "historic": "house",
+        "old_name": "Дом купца Купцова",
+        "start_date": "1891",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9728508,
+          45.0303716
+        ]
+      },
+      "id": "way/78690587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78690606",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "40",
+        "addr:postcode": "350063",
+        "addr:street": "улица Мира",
+        "architect": "М.Н. Ишунин",
+        "building": "yes",
+        "building:levels": "4",
+        "description": "Памятник истории и культуры. Дом жилой с торговыми помещениями, 1932 г.",
+        "historic": "house",
+        "old_name": "Дом жилой с торговыми помещениями, 1932 г.",
+        "start_date": "1932",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9685343,
+          45.0206604
+        ]
+      },
+      "id": "way/78690606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78690616",
+        "addr2:housenumber": "98",
+        "addr2:street": "улица Горького",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "92",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "building": "administrative",
+        "building:architecture": "modern",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Магазин обувной Иллариона Котлярова, начало XX в.",
+        "historic": "building",
+        "old_name": "Магазин обувной Иллариона Котлярова",
+        "start_date": "1901",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9730746,
+          45.0310683
+        ]
+      },
+      "id": "way/78690616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78690618",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "23",
+        "addr:postcode": "350063",
+        "addr:street": "Красная улица",
+        "architect": "Н.Г. Сеняпкин",
+        "building": "yes",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Кубанское областное правление, 1882 г., архитектор Н.Г. Сеняпкин",
+        "fire_operator": "RU-KDA-12-1",
+        "fire_rank": "2",
+        "historic": "building",
+        "old_name": "Кубанское областное правление",
+        "start_date": "1882",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9684817,
+          45.0202714
+        ]
+      },
+      "id": "way/78690618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78690621",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "36",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Гимназическая улица",
+        "architect": "З. П. Коршевец",
+        "building": "administrative",
+        "building:levels": "2",
+        "description": "Народная аудитрория Александро-Невского братства, архитектор З. П. Коршевец",
+        "historic": "building",
+        "name": "Департамент имущественных отношений",
+        "old_name": "Народная аудитория Александро-Невского братства",
+        "start_date": "1890",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.968993,
+          45.0253828
+        ]
+      },
+      "id": "way/78690621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78690629",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "43",
+        "addr:postcode": "350063",
+        "addr:street": "Комсомольская улица",
+        "amenity": "kindergarten",
+        "architect": "А.А. Козлов",
+        "building": "mansion",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом нотариуса Е.Е. Никифораки, 1910 г., архитектор А.А. Козлов. Здесь работал писатель Д.А. Фурманов, 1920 - 1921 годы",
+        "historic": "house",
+        "name": "Детский сад №209",
+        "old_name": "Дом нотариуса Е.Е. Никифораки",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "website": "https://ds209.centerstart.ru/",
+        "wikidata": "Q124247568",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9675517,
+          45.0197424
+        ]
+      },
+      "id": "way/78690629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78690641",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "84",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой с торговыми помещениями на первом этаже, 1889 г.",
+        "historic": "house",
+        "old_name": "Дом жилой 1889 г.",
+        "start_date": "1889",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9727117,
+          45.0302038
+        ]
+      },
+      "id": "way/78690641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78690643",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "22",
+        "addr:postcode": "350063",
+        "addr:street": "Красноармейская улица",
+        "architect": "А.А. Козлов",
+        "building": "yes",
+        "building:architecture": "modern",
+        "building:levels": "4",
+        "description": "Памятник истории и культуры. Гостиница \"Националь\", 1913 г., архитектор А.А. Козлов",
+        "fire_operator": "RU-KDA-12-1",
+        "fire_rank": "2",
+        "historic": "house",
+        "name": "УФСБ по Краснодарскому краю",
+        "old_name": "Гостиница \"Националь\"",
+        "start_date": "1913",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9715756,
+          45.0200058
+        ]
+      },
+      "id": "way/78690643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/80886427",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "8",
+        "addr:postcode": "350063",
+        "addr:street": "улица Коммунаров",
+        "amenity": "community_centre",
+        "building": "house",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Усадьба купца В.К. Рубежанского, 1900 - 1908 годы",
+        "historic": "manor",
+        "name": "Общественная палата Российской Федерации",
+        "old_name": "Усадьба купца В.К. Рубежанского",
+        "start_date": "1908",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9720961,
+          45.0148977
+        ]
+      },
+      "id": "way/80886427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86296819",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "64",
+        "addr:postcode": "350000",
+        "addr:street": "Октябрьская улица",
+        "building": "residential",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Баня купца А.Д. Адамули, 1881 г., реконструкция начало XX в.",
+        "historic": "building",
+        "leisure": "sauna",
+        "name": "Русская Баня",
+        "old_name": "Баня купца А.Д. Адамули",
+        "start_date": "1881",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9660174,
+          45.0239155
+        ]
+      },
+      "id": "way/86296819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86297003",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "80",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Октябрьская улица",
+        "building": "administrative",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом доктора М.Н. Верховского, 1900 - 1910 годы",
+        "historic": "house",
+        "old_name": "Дом доктора М.Н. Верховского",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9668834,
+          45.0264884
+        ]
+      },
+      "id": "way/86297003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86306690",
+        "addr2:housenumber": "54",
+        "addr2:street": "Красноармейская улица",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "38",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Гимназическая улица",
+        "architect": "Н.Г. Петин",
+        "building": "yes",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Здание мужской гимназии, 1904 - 1906 годы, архитектор Н.Г. Петин. На этом месте И.А. Кузнецовым была открыта первая публичная библиотека им. А.С. Пушкина, 29 января 1900 г.",
+        "fire_operator": "RU-KDA-12-1",
+        "fire_rank": "2",
+        "historic": "house",
+        "name": "Дворец творчества Краснодарского края",
+        "old_name": "Здание мужской гимназии",
+        "start_date": "1906",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9731821,
+          45.0245266
+        ]
+      },
+      "id": "way/86306690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86306692",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "52",
+        "addr:postcode": "350000",
+        "addr:street": "Красноармейская улица",
+        "architect": "В.А. Филиппов",
+        "building": "school",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Первая женская гимназия, 1888 г., архитектор В.А. Филиппов. Здесь С.И. Борчевским были произведены опыты с рентгеновскими снимками, 1896 г. Здесь выступал композитор А.Н. Скрябин, 1911 г., 1912 г.",
+        "historic": "building",
+        "name": "Екатерининская гимназия №36",
+        "old_name": "Первая женская гимназия",
+        "start_date": "1888",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9729401,
+          45.0239347
+        ]
+      },
+      "id": "way/86306692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90443455",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "133",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Октябрьская улица",
+        "building": "administrative",
+        "building:architecture": "russian_gothic",
+        "building:levels": "2",
+        "historic": "manor",
+        "old_name": "Усадьба землемера И.Н. Воробьева",
+        "start_date": "1908",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.968144,
+          45.0318829
+        ]
+      },
+      "id": "way/90443455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90952652",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "86",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Чапаева",
+        "architect": "А.А.Козлов",
+        "building": "administrative",
+        "building:architecture": "modern",
+        "building:levels": "1",
+        "historic": "house",
+        "start_date": "1907",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.971216,
+          45.02988
+        ]
+      },
+      "id": "way/90952652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90952655",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "84",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Чапаева",
+        "building": "house",
+        "building:architecture": "modern",
+        "historic": "house",
+        "old_name": "Дом жилой началао XX века",
+        "start_date": "1905",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9709809,
+          45.0299179
+        ]
+      },
+      "id": "way/90952655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90952664",
+        "addr:country": "RU",
+        "addr:housenumber": "40",
+        "addr:postcode": "350000",
+        "addr:street": "Рашпилевская улица",
+        "building": "church",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Эллинское училище с домовой церковью, около 1900 г.",
+        "historic": "church",
+        "old_name": "Эллинское училище с домовой церковью",
+        "roof:shape": "hipped",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9682689,
+          45.024011
+        ]
+      },
+      "id": "way/90952664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90952692",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "30",
+        "addr:postcode": "350000",
+        "addr:street": "Красноармейская улица",
+        "amenity": "arts_centre",
+        "building": "house",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом профессора А.М. Данилюка, 1900-е годы",
+        "historic": "house",
+        "name": "Краснодарский дом ученых",
+        "old_name": "Дом профессора А.М. Данилюка",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "wikidata": "Q4165614",
+        "wikipedia": "ru:Дом учёных (Краснодар)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9718279,
+          45.0211405
+        ]
+      },
+      "id": "way/90952692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90952694",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "26",
+        "addr:postcode": "350000",
+        "addr:street": "Красноармейская улица",
+        "building": "administrative",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой Эргановых, 1890 - 1900 годы",
+        "historic": "house",
+        "old_name": "Дом жилой Эргановых",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9716918,
+          45.0207231
+        ]
+      },
+      "id": "way/90952694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90952704",
+        "addr:country": "RU",
+        "addr:housenumber": "39",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Ленина",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Синагога, 1881 г.",
+        "historic": "church",
+        "old_name": "Синагога",
+        "start_date": "1881",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9673989,
+          45.0244244
+        ]
+      },
+      "id": "way/90952704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90952705",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "36",
+        "addr:postcode": "350000",
+        "addr:street": "улица Ленина",
+        "building": "administrative",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, начало XX в.",
+        "start_date": "1930",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9675644,
+          45.0241063
+        ]
+      },
+      "id": "way/90952705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90952706",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "37А",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Ленина",
+        "building": "residential",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Дом жилой, 1888 - 1900 годы",
+        "historic": "house",
+        "old_name": "Дом жилой 1888 - 1900 годы",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9669105,
+          45.0244933
+        ]
+      },
+      "id": "way/90952706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90952713",
+        "addr2:housenumber": "50",
+        "addr2:street": "улица Седина",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "58",
+        "addr:postcode": "350000",
+        "addr:street": "Гимназическая улица",
+        "architect": "Ф.И. Меерович",
+        "building": "yes",
+        "building:architecture": "modern",
+        "description": "Памятник истории и культуры. Лечебница и родильный приют, 1911 - 1912 годы, архитектор Ф.И. Меерович",
+        "fire_operator": "RU-KDA-12-1",
+        "fire_rank": "2",
+        "historic": "building",
+        "name": "Родильный дом №1",
+        "old_name": "Лечебница и родильный приют",
+        "start_date": "1912",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9775395,
+          45.0240117
+        ]
+      },
+      "id": "way/90952713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90952715",
+        "addr2:housenumber": "59",
+        "addr2:street": "улица Седина",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "91",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Гимназическая улица",
+        "building": "administrative",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Жилой дом, 1890 - 1900 годы",
+        "historic": "house",
+        "old_name": "Жилой дом, 1890 - 1900 годы",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9770123,
+          45.024451
+        ]
+      },
+      "id": "way/90952715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90952862",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "48",
+        "addr:postcode": "350000",
+        "addr:street": "улица Орджоникидзе",
+        "building": "administrative",
+        "building:architecture": "modern",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой Х. Фришкулиди, начало XX в.",
+        "historic": "manor",
+        "old_name": "Дом жилой Х. Фришкулиди",
+        "start_date": "1920",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9723838,
+          45.0216925
+        ]
+      },
+      "id": "way/90952862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90952870",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "50",
+        "addr:postcode": "350000",
+        "addr:street": "улица Орджоникидзе",
+        "building": "administrative",
+        "building:architecture": "modern",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой К.П. Пятковой, конец XIX в. - начало XX в.",
+        "historic": "manor",
+        "old_name": "Дом жилой К.П. Пятковой",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9725909,
+          45.021652
+        ]
+      },
+      "id": "way/90952870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90952872",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "45",
+        "addr:postcode": "350000",
+        "addr:street": "улица Мира",
+        "building": "administrative",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой присяжного поверенного адвоката А.Ф. Рубинского, 1900 - 1910 годы",
+        "historic": "house",
+        "old_name": "Дом жилой присяжного поверенного адвоката А.Ф. Рубинского",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9724613,
+          45.0204276
+        ]
+      },
+      "id": "way/90952872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90952877",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "48",
+        "addr:postcode": "350000",
+        "addr:street": "Красноармейская улица",
+        "amenity": "arts_centre",
+        "architect": "М.И. Рыбкин",
+        "building": "theatre",
+        "building:architecture": "modern",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Второе Общественное собрание, 1913 г., архитектор М.И. Рыбкин. Здесь располагался первый Совет рабочих, солдатских и казачьих депутатов, 1918 г.",
+        "fire_operator": "RU-KDA-12-1",
+        "fire_rank": "2",
+        "historic": "building",
+        "name": "Краснодарский гарнизонный дом офицеров",
+        "old_name": "Второе Общественное собрание",
+        "start_date": "1913",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9725624,
+          45.0230781
+        ]
+      },
+      "id": "way/90952877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90953074",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "67",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Гимназическая улица",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Гостиница \"Гранд-Отель\" Е.Г. Губкиной, 1888-1900г.",
+        "fire_operator": "RU-KDA-12-1",
+        "fire_rank": "2",
+        "historic": "building",
+        "name": "Историко-археологический музей-заповедник им. Е.Д. Фелицына",
+        "old_name": "Гостиница \"Гранд-Отель\" Е.Г. Губкиной",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9723796,
+          45.0253867
+        ]
+      },
+      "id": "way/90953074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90953089",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "74",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Коммунаров",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, начало XX в.",
+        "start_date": "1920",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.974995,
+          45.0244332
+        ]
+      },
+      "id": "way/90953089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90953090",
+        "addr2:housenumber": "79",
+        "addr2:street": "Гимназическая улица",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "63",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Коммунаров",
+        "building": "residential",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, конец XIX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, конец XIX в.",
+        "start_date": "1890",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9746742,
+          45.0248697
+        ]
+      },
+      "id": "way/90953090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90953103",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "64",
+        "addr:postcode": "350000",
+        "addr:street": "улица Коммунаров",
+        "building": "residential",
+        "building:architecture": "modern",
+        "description": "Памятник истории и культуры. Дом Общества борьбы с нищенством (\"Убежище\"), 1911 г.",
+        "historic": "building",
+        "old_name": "Дом Общества борьбы с нищенством (\"Убежище\")",
+        "start_date": "1911",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9746383,
+          45.023499
+        ]
+      },
+      "id": "way/90953103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90953110",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "70",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красноармейская улица",
+        "building": "administrative",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Здание мещанской управы, 1900 г.",
+        "historic": "building",
+        "old_name": "Здание мещанской управы",
+        "start_date": "1908",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.974806,
+          45.0304457
+        ]
+      },
+      "id": "way/90953110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90953111",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "68",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красноармейская улица",
+        "building": "administrative",
+        "building:architecture": "modern",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Дом жилой, 1908 - 1910 годы",
+        "historic": "house",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9745669,
+          45.0297154
+        ]
+      },
+      "id": "way/90953111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90953118",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "72",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красноармейская улица",
+        "building": "administrative",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой с торговыми помещениями на первом этаже, 1908 - 1913 годы",
+        "historic": "house",
+        "old_name": "Дом жилой 1908-1913 годы",
+        "start_date": "1913",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9749541,
+          45.0307558
+        ]
+      },
+      "id": "way/90953118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90953146",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "150",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Коммунаров",
+        "architect": "С.С. Лукьянов",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Школа приказчиков, 1912 г., архитектор С.С. Лукьянов",
+        "historic": "school",
+        "old_name": "Школа приказчиков",
+        "start_date": "1912",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9784608,
+          45.032572
+        ]
+      },
+      "id": "way/90953146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90953153",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "118/1",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом купца М.М. Лихацкого, 1900 - 1910 годы",
+        "historic": "house",
+        "old_name": "Дом купца М.М. Лихацкого",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9745848,
+          45.0338914
+        ]
+      },
+      "id": "way/90953153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90953160",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "145",
+        "addr:postcode": "350002",
+        "addr:street": "улица Будённого",
+        "building": "yes",
+        "description": "Памятник истории и культуры. Жилой дом, начало XX в.",
+        "historic": "house",
+        "old_name": "Жилой дом, начало XX в.",
+        "start_date": "1918",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9774378,
+          45.0358386
+        ]
+      },
+      "id": "way/90953160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90953162",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "93Г",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красноармейская улица",
+        "building": "yes",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, начало XX в.",
+        "start_date": "1920",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9754458,
+          45.0337528
+        ]
+      },
+      "id": "way/90953162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/91976810",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "288",
+        "addr:postcode": "350000",
+        "addr:street": "улица имени Володи Головатого",
+        "building": "administrative",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "old_name": "Дом жилой, начало XX в.",
+        "start_date": "1917",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9663002,
+          45.0399436
+        ]
+      },
+      "id": "way/91976810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92371092",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "33",
+        "addr:postcode": "350063",
+        "addr:street": "Октябрьская улица",
+        "building": "residential",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой А.И. Орлова, начало XX в.",
+        "historic": "house",
+        "name": "Дом жилой А.И. Орлова, начало XX в.",
+        "old_name": "Дом А.И. Орлова",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9631915,
+          45.0172359
+        ]
+      },
+      "id": "way/92371092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94020385",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "49",
+        "addr:postcode": "350000",
+        "addr:street": "улица Ленина",
+        "building": "residential",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, конец XIX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, конец XIX в.",
+        "start_date": "1890",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9730727,
+          45.0234937
+        ]
+      },
+      "id": "way/94020385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94020409",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "59",
+        "addr:postcode": "350000",
+        "addr:street": "улица Коммунаров",
+        "building": "policlinic",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой Березовского, 1908 - 1912 годы",
+        "historic": "house",
+        "name": "Детская поликлиника №4",
+        "old_name": "Дом жилой Березовского",
+        "start_date": "1912",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9744364,
+          45.0241974
+        ]
+      },
+      "id": "way/94020409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94020449",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "34",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Леваневского",
+        "building": "residential",
+        "building:architecture": "modern",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой начало XX в.",
+        "start_date": "1917",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9822089,
+          45.0259627
+        ]
+      },
+      "id": "way/94020449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94020483",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "60",
+        "addr:postcode": "350000",
+        "addr:street": "улица Ленина",
+        "building": "yes",
+        "building:levels": "4",
+        "description": "Памятник истории и культуры. Жилой дом, 1888 г.",
+        "name": "Церковь Успения Богородицы",
+        "start_date": "1888",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9751615,
+          45.0224374
+        ]
+      },
+      "id": "way/94020483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94020495",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "55",
+        "addr:postcode": "350000",
+        "addr:street": "улица Коммунаров",
+        "architect": "А.А. Козлов",
+        "building": "administrative",
+        "building:architecture": "modern",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой Х.И. Фотиади, 1912 г., архитектор А.А. Козлов",
+        "historic": "house",
+        "name": "Дом Фотиади",
+        "old_name": "Дом жилой Х.И. Фотиади",
+        "start_date": "1912",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9738806,
+          45.0234127
+        ]
+      },
+      "id": "way/94020495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94020565",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "60А",
+        "addr:postcode": "350000",
+        "addr:street": "улица Ленина",
+        "building": "yes",
+        "building:architecture": "eclectic",
+        "building:levels": "1",
+        "historic": "house",
+        "start_date": "1905",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9752044,
+          45.0228616
+        ]
+      },
+      "id": "way/94020565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94024601",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "65",
+        "addr:postcode": "350033",
+        "addr:street": "улица Мира",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Станция электрического трамвая, 1900 г.",
+        "historic": "building",
+        "old_name": "Станция электрического трамвая",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9815344,
+          45.0190148
+        ]
+      },
+      "id": "way/94024601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94024628",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "107 А",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Гоголя",
+        "building": "residential",
+        "building:architecture": "modern",
+        "historic": "house",
+        "old_name": "Дом жилой начало XX в.",
+        "start_date": "1918",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9823484,
+          45.0251318
+        ]
+      },
+      "id": "way/94024628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94024643",
+        "addr:country": "RU",
+        "addr:housenumber": "61",
+        "addr:postcode": "350000",
+        "addr:street": "улица Мира",
+        "building": "residential",
+        "description": "Памятник истории и культуры. Дом жилой Л.Н. Трахова, начало XX в.",
+        "historic": "house",
+        "name": "Дом жилой Л.Н. Трахова",
+        "old_name": "Дом жилой Л.Н. Трахова",
+        "start_date": "1917",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9798333,
+          45.0192354
+        ]
+      },
+      "id": "way/94024643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94024701",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "69",
+        "addr:postcode": "350000",
+        "addr:street": "улица Орджоникидзе",
+        "building": "residential",
+        "building:architecture": "stalinist_neoclassicism",
+        "building:levels": "4",
+        "description": "Памятник истории и культуры. Дом жилой, 1940 г.",
+        "historic": "house",
+        "old_name": "Дом жилой, 1940 г.",
+        "start_date": "1940",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9769637,
+          45.021484
+        ]
+      },
+      "id": "way/94024701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94024739",
+        "addr2:housenumber": "61",
+        "addr2:street": "улица Коммунаров",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "42",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Гимназическая улица",
+        "building": "administrative",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Баня А.М. Виноградского, 1912 г.",
+        "historic": "building",
+        "old_name": "Баня А.М. Виноградского",
+        "start_date": "1912",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9745664,
+          45.0244968
+        ]
+      },
+      "id": "way/94024739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94024763",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "3",
+        "addr:postcode": "350033",
+        "addr:street": "улица Дмитриевская Дамба",
+        "building": "college",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Кубанский окружной исправительный приют, 1900 - 1908 гг.",
+        "historic": "building",
+        "name": "Краснодарский Торгово-Экономический Колледж",
+        "old_name": "Кубанский окружной исправительный приют",
+        "start_date": "1908",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9913546,
+          45.0251835
+        ]
+      },
+      "id": "way/94024763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95998523",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "111А",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Длинная улица",
+        "architect": "А.А. Козлов",
+        "building": "administrative",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой Андреева, начало XX в., архитектор А.А. Козлов",
+        "historic": "house",
+        "name": "Дом Андреева",
+        "old_name": "Дом Андреева",
+        "start_date": "1918",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9700931,
+          45.0353232
+        ]
+      },
+      "id": "way/95998523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95998543",
+        "addr2:housenumber": "114",
+        "addr2:street": "Длинная улица",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "100",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Рашпилевская улица",
+        "building": "yes",
+        "building:architecture": "eclectic",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Екатеринодарская бактериологическая станция, 1900 - 1910 годы. Здесь работал микробиолог И.Г. Савченко, 1920 г.",
+        "full_name": "Управление Федеральной службы по надзору в сфере защиты прав потребителей и благополучия человека по Краснодарскому краю",
+        "historic": "building",
+        "name": "Роспотребнадзор",
+        "old_name": "Екатеринодарская бактериологическая станция",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9718592,
+          45.034637
+        ]
+      },
+      "id": "way/95998543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95998551",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "107 А",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Кирова",
+        "building": "residential",
+        "building:architecture": "art_nouveau",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "historic": "house",
+        "name": "BOSH",
+        "old_name": "Дом жилой, начало XX в.",
+        "start_date": "1907",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9669049,
+          45.0347435
+        ]
+      },
+      "id": "way/95998551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96031347",
+        "addr2:housenumber": "48",
+        "addr2:street": "улица Кирова",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "33",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Гоголя",
+        "building": "residential",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, начало XX в.",
+        "start_date": "1918",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9650525,
+          45.0279886
+        ]
+      },
+      "id": "way/96031347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96031354",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "48",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Карасунская улица",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, начало XX в.",
+        "start_date": "1918",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.965907,
+          45.0291559
+        ]
+      },
+      "id": "way/96031354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96032193",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "66",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Кирова",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, начало XX в.",
+        "start_date": "1920",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9657506,
+          45.0299165
+        ]
+      },
+      "id": "way/96032193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96032217",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "75",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Кирова",
+        "building": "administrative",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, доходный, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, доходный, начало XX в.",
+        "start_date": "1905",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9655245,
+          45.0305886
+        ]
+      },
+      "id": "way/96032217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96032410",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "106",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Октябрьская улица",
+        "building": "residential",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, начало XX в.",
+        "start_date": "1917",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9679086,
+          45.0297113
+        ]
+      },
+      "id": "way/96032410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96032420",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "111",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Октябрьская улица",
+        "building": "residential",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой Сириньяно, 1906 - 1910 годы",
+        "historic": "house",
+        "old_name": "Дом Сириньяно",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9672969,
+          45.0294853
+        ]
+      },
+      "id": "way/96032420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96037317",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "15",
+        "addr:postcode": "350063",
+        "addr:street": "улица Мира",
+        "architect": "Н.Д. Малама",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом трудолюбия, 1902 г., архитектор Н.Д. Малама",
+        "historic": "building",
+        "old_name": "Дом трудолюбия",
+        "start_date": "1902",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9624097,
+          45.0221532
+        ]
+      },
+      "id": "way/96037317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/97721057",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "67",
+        "addr:street": "улица Захарова",
+        "building": "yes",
+        "description": "Памятник истории и культуры. Здание городской гауптвахты, конец XIX в.",
+        "old_name": "Здание городской гауптвахты",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9696673,
+          45.0134611
+        ]
+      },
+      "id": "way/97721057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/99668095",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "16",
+        "addr:postcode": "350063",
+        "addr:street": "Красноармейская улица",
+        "building": "administrative",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой генерала Н.И. Вишневецкого, 1896 - 1900 годы, воссоздан с переносом на новое место в 1994 - 1997 годы",
+        "historic": "house",
+        "old_name": "Дом жилой генерала Н.И. Вишневецкого, 1896 - 1900 годы",
+        "start_date": "1896",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9709661,
+          45.0187337
+        ]
+      },
+      "id": "way/99668095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/99668099",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "52",
+        "addr:postcode": "350000",
+        "addr:street": "улица Коммунаров",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "4",
+        "denomination": "orthodox",
+        "description": "Памятник истории и культуры. Екатерининский кафедральный собор с интерьером, 1900 - 1914 годы, архитектор И.К. Мальгерб. Построен в честь спасения царской семьи Александра III в железнодорожной катастрофе в 1888 году.",
+        "height": "43 m",
+        "historic": "church",
+        "name": "Свято-Екатерининский кафедральный собор",
+        "old_name": "Екатерининский кафедральный собор с интерьером",
+        "religion": "christian",
+        "start_date": "1914",
+        "tourism": "attraction",
+        "wikidata": "Q4174370",
+        "wikipedia": "ru:Екатерининский собор (Краснодар)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9747417,
+          45.0205451
+        ]
+      },
+      "id": "way/99668099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/99668129",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "14",
+        "addr:postcode": "350063",
+        "addr:street": "Красноармейская улица",
+        "building": "residential",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Жилой дом, 1910 г.",
+        "historic": "house",
+        "old_name": "Жилой дом, 1910 г.",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9708545,
+          45.0185025
+        ]
+      },
+      "id": "way/99668129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/99688282",
+        "addr2:housenumber": "55",
+        "addr2:street": "Постовая улица",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "2",
+        "addr:street": "улица Коммунаров",
+        "architect": "В.Г. Никитин",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом доходный архитектора В.Г. Никитина, вторая половина XIX в.",
+        "historic": "manor",
+        "start_date": "1870",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.971868,
+          45.0143261
+        ]
+      },
+      "id": "way/99688282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/99688285",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "56",
+        "addr:postcode": "350063",
+        "addr:street": "улица Мира",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Вторая Екатеринодарская мужская классическая гимназия. 1895 - 1900г.",
+        "fire_operator": "RU-KDA-12-1",
+        "fire_rank": "2",
+        "historic": "building",
+        "name": "Пожарная часть № 1",
+        "old_name": "Вторая Екатеринодарская мужская классическая гимназия",
+        "operator": "RU-KDA-12",
+        "ref": "ПЧ-1",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9749123,
+          45.0195789
+        ]
+      },
+      "id": "way/99688285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/99688288",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "80",
+        "addr:postcode": "350033",
+        "addr:street": "улица Мира",
+        "building": "yes",
+        "description": "Памятник истории и культуры. Дом жилой работников мельницы И.И. Дицмана, 1900 г.",
+        "historic": "house",
+        "old_name": "Дом жилой работников мельницы И.И. Дицмана",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.982837,
+          45.0185902
+        ]
+      },
+      "id": "way/99688288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100277426",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "162 Б",
+        "addr:postcode": "350002",
+        "addr:street": "Красная улица",
+        "building": "yes",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, 1908 - 1912 годы",
+        "historic": "house",
+        "layer": "-1",
+        "start_date": "1912",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9768683,
+          45.040451
+        ]
+      },
+      "id": "way/100277426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100280666",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "168",
+        "addr:postcode": "350002",
+        "addr:street": "Красная улица",
+        "building": "yes",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой А.М. Проценко, 1910 г.",
+        "fire_operator": "RU-KDA-12-1",
+        "fire_rank": "2",
+        "historic": "house",
+        "old_name": "Дом жилой А.М. Проценко",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9772599,
+          45.0416486
+        ]
+      },
+      "id": "way/100280666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104059357",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "140",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Коммунаров",
+        "building": "residential",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой начало XX в.",
+        "start_date": "1916",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9774625,
+          45.0316285
+        ]
+      },
+      "id": "way/104059357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107725848",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "99",
+        "addr:postcode": "350000",
+        "addr:street": "улица Горького",
+        "building": "detached",
+        "building:architecture": "art_nouveau",
+        "building:levels": "1",
+        "building:material": "plaster",
+        "description": "Памятник истории и культуры. Дом жилой Г.А. Кохан, 1911 г.",
+        "historic": "house",
+        "old_name": "Дом Г.А. Кохан",
+        "start_date": "1911",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9719791,
+          45.0316354
+        ]
+      },
+      "id": "way/107725848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107726500",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "60",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Пашковская улица",
+        "building": "administrative",
+        "building:architecture": "art_nouveau",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, 1900 - 1910 годы",
+        "historic": "house",
+        "old_name": "Дом жилой, 1900 - 1910 годы",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9699632,
+          45.0333124
+        ]
+      },
+      "id": "way/107726500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107726502",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "62",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Пашковская улица",
+        "building": "residential",
+        "building:architecture": "eclectic",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, 1900 - 1910 годы",
+        "historic": "house",
+        "old_name": "Дом жилой, 1900 - 1910 годы",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9701546,
+          45.0333137
+        ]
+      },
+      "id": "way/107726502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107726503",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "91",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Горького",
+        "building": "yes",
+        "building:architecture": "art_nouveau",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, особняк, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, особняк, начало XX в.",
+        "start_date": "1976",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9699163,
+          45.0319444
+        ]
+      },
+      "id": "way/107726503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107726504",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "132",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Октябрьская улица",
+        "building": "residential",
+        "building:architecture": "eclectic",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой Г.А. Яковлева, конец XIX в.",
+        "historic": "house",
+        "old_name": "Дом жилой Г.А. Яковлева",
+        "start_date": "1890",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9687806,
+          45.0324531
+        ]
+      },
+      "id": "way/107726504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107726511",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "64",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Пашковская улица",
+        "area": "yes",
+        "building": "residential",
+        "building:architecture": "art_nouveau",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, 1900 - 1910 годы",
+        "historic": "house",
+        "old_name": "Дом жилой, 1900 - 1910 годы",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9703305,
+          45.0332815
+        ]
+      },
+      "id": "way/107726511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107726754",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "92",
+        "addr:postcode": "350000",
+        "addr:street": "улица Горького",
+        "building": "residential",
+        "building:architecture": "art_nouveau",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, 1900 г.",
+        "historic": "house",
+        "old_name": "Дом жилой, 1900 г.",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9712627,
+          45.0314366
+        ]
+      },
+      "id": "way/107726754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107727034",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "69Б",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Здание музыкального магазина Сарантиди, 1906 - 1912 годы",
+        "historic": "building",
+        "old_name": "Здание музыкального магазина Сарантиди",
+        "start_date": "1912",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9718204,
+          45.0292467
+        ]
+      },
+      "id": "way/107727034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107727145",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "75",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Рашпилевская улица",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом доходный, конец XIX - начало XX в.",
+        "historic": "house",
+        "old_name": "Дом доходный, конец XIX - начало XX в.",
+        "start_date": "1917",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9694232,
+          45.0289812
+        ]
+      },
+      "id": "way/107727145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107727192",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "113",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Октябрьская улица",
+        "building": "residential",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, 1894 - 1900 годы",
+        "historic": "house",
+        "old_name": "Дом жилой, 1894 - 1900 годы",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9674154,
+          45.0295976
+        ]
+      },
+      "id": "way/107727192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107728411",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "52",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Гоголя",
+        "building": "residential",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, конец XIX - начало XX веков",
+        "historic": "house",
+        "old_name": "Дом жилой конец XIX - начало XX веков",
+        "start_date": "1918",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9677941,
+          45.0272699
+        ]
+      },
+      "id": "way/107728411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107728414",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "57",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Рашпилевская улица",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Жилой дом, начало XX века",
+        "historic": "house",
+        "old_name": "Жилой дом начало XX века",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9678959,
+          45.0263227
+        ]
+      },
+      "id": "way/107728414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107728847",
+        "addr:country": "RU",
+        "addr:housenumber": "37Б",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Ленина",
+        "building": "yes",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, конец XIXв.",
+        "historic": "house",
+        "old_name": "Дом жилой конец XIXв.",
+        "start_date": "1890",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9671951,
+          45.0245392
+        ]
+      },
+      "id": "way/107728847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107728866",
+        "addr:country": "RU",
+        "addr:housenumber": "37В",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Ленина",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, конец XIXв.",
+        "historic": "house",
+        "old_name": "Дом жилой конец XIXв.",
+        "start_date": "1890",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9671535,
+          45.0246552
+        ]
+      },
+      "id": "way/107728866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109058965",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "52",
+        "addr:postcode": "350063",
+        "addr:street": "Комсомольская улица",
+        "building": "administrative",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, конец XIX в. Здесь жил писатель Д.А. Фурманов, 1920 - 1921 годы",
+        "historic": "house",
+        "old_name": "Дом жилой, конец XIX в.",
+        "start_date": "1918",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.969945,
+          45.0189812
+        ]
+      },
+      "id": "way/109058965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109059801",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "54",
+        "addr:postcode": "350063",
+        "addr:street": "Комсомольская улица",
+        "building": "residential",
+        "building:architecture": "modern",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, 1910-е годы",
+        "historic": "house",
+        "old_name": "Дом жилой, 1910-е годы",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.970174,
+          45.0189702
+        ]
+      },
+      "id": "way/109059801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109770728",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "91А",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красноармейская улица",
+        "building": "administrative",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, начало XX в.",
+        "start_date": "1920",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9753695,
+          45.0335649
+        ]
+      },
+      "id": "way/109770728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109770741",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "101",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "building": "administrative",
+        "building:architecture": "eclectic",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Женское городское училище, 1900-е годы",
+        "historic": "building",
+        "old_name": "Женское городское училище",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9734615,
+          45.0343479
+        ]
+      },
+      "id": "way/109770741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109771669",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "100",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой с торговыми помещениями на первом этаже, 1895 - 1900 годы",
+        "historic": "house",
+        "old_name": "Дом жилой 1895 - 1900 годы",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9732537,
+          45.0320387
+        ]
+      },
+      "id": "way/109771669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109771675",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "102",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "building": "residential",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой с торговыми помещениями на первом этаже, 1900 г.",
+        "historic": "house",
+        "old_name": "Дом жилой 1895 - 1900 годы",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9733162,
+          45.0322196
+        ]
+      },
+      "id": "way/109771675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109772993",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "64",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "architect": "М.Н. Ишунин",
+        "building": "administrative",
+        "building:levels": "4",
+        "description": "Коммунальный доходный дом, 1926 г., архитектор М.Н. Ишунин. На этом месте располагался дом Акритаса, в котором арендовало помещение Второе Общественное собрание, 1888 г.",
+        "historic": "house",
+        "old_name": "Коммунальный доходный дом",
+        "start_date": "1926",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9714869,
+          45.0266395
+        ]
+      },
+      "id": "way/109772993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110281212",
+        "addr:country": "RU",
+        "addr:housenumber": "27",
+        "addr:street": "улица Орджоникидзе",
+        "building": "yes",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, конец XIX в.",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9657589,
+          45.0231117
+        ]
+      },
+      "id": "way/110281212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110282989",
+        "addr:country": "RU",
+        "addr:housenumber": "19",
+        "addr:postcode": "350063",
+        "addr:street": "Красная улица",
+        "architect": "В.А. Филиппов",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом генерала И.К. Назарова, 1886 - 1887 годы, архитектор В.А. Филиппов",
+        "historic": "house",
+        "name": "Управление землепользования",
+        "office": "government",
+        "old_name": "Дом генерала И.К. Назарова",
+        "start_date": "1887",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9684367,
+          45.019641
+        ]
+      },
+      "id": "way/110282989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110283029",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "38",
+        "addr:postcode": "350063",
+        "addr:street": "улица Мира",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой с торговыми помещениями на первом этаже, 1908 - 1910 годы",
+        "historic": "house",
+        "old_name": "Дом жилой с торговыми помещениями на первом этаже, 1908 - 1910 г/",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9672893,
+          45.0209776
+        ]
+      },
+      "id": "way/110283029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110285325",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "36",
+        "addr:postcode": "350063",
+        "addr:street": "Комсомольская улица",
+        "building": "administrative",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Дом доходный Н.П. Богарсукова, 1906 г. Здесь находился Кубано-Черноморский обком РКП(б), впоследствии - горком РКП(б) и горком комсомола, 1920 г.",
+        "historic": "house",
+        "old_name": "Дом доходный Н.П. Богарсукова, 1906 г.",
+        "start_date": "1906",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9650118,
+          45.0197321
+        ]
+      },
+      "id": "way/110285325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110287776",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "16",
+        "addr:postcode": "350063",
+        "addr:street": "улица Кирова",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, 1885 г.",
+        "historic": "house",
+        "old_name": "Дом жилой, 1885г.",
+        "start_date": "1885",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9633858,
+          45.0229402
+        ]
+      },
+      "id": "way/110287776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110287794",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "23",
+        "addr:postcode": "350063",
+        "addr:street": "улица Мира",
+        "building": "policlinic",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой генерала В.А. Пржевальского, начало XX в.",
+        "historic": "house",
+        "name": "Краснодарская поликлиника",
+        "old_name": "Дом жилой генерала В.А. Пржевальского",
+        "start_date": "1920",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9643504,
+          45.0217992
+        ]
+      },
+      "id": "way/110287794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110287803",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "45",
+        "addr:postcode": "350063",
+        "addr:street": "Октябрьская улица",
+        "building": "residential",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, 1907 - 1910 годы",
+        "historic": "house",
+        "old_name": "Дом жилой, 1907 - 1910 годы",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9637666,
+          45.0190518
+        ]
+      },
+      "id": "way/110287803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110287804",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "29",
+        "addr:postcode": "350063",
+        "addr:street": "Комсомольская улица",
+        "architect": "А.А. Козлов",
+        "building": "yes",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом доходный Е.Н. Козловой (\"Дом с розой\"), 1912 г., архитектор А.А. Козлов",
+        "historic": "house",
+        "old_name": "Дом с розой",
+        "start_date": "1912",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9642399,
+          45.0202603
+        ]
+      },
+      "id": "way/110287804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110289402",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "38",
+        "addr:postcode": "350000",
+        "addr:street": "улица Кирова",
+        "building": "residential",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, начало XX в.",
+        "start_date": "1918",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9647162,
+          45.0269937
+        ]
+      },
+      "id": "way/110289402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110289407",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "33",
+        "addr:postcode": "350000",
+        "addr:street": "Гимназическая улица",
+        "building": "kindergarten",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Жилой дом, начало XX века",
+        "historic": "house",
+        "name": "Детский сад №19 комбинированного вида",
+        "old_name": "Жилой дом, начало XX века",
+        "start_date": "1920",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9630066,
+          45.026803
+        ]
+      },
+      "id": "way/110289407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110289438",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "27",
+        "addr:postcode": "350063",
+        "addr:street": "улица Ленина",
+        "building": "house",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, начало XX в.",
+        "start_date": "1920",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9647023,
+          45.0248651
+        ]
+      },
+      "id": "way/110289438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124053423",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "149",
+        "addr:street": "Рашпилевская",
+        "architect": "В. Г. Шухов",
+        "building": "yes",
+        "heritage": "2",
+        "historic": "tower",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/2023-10-22._Краснодар_DSC_7515.jpg",
+        "man_made": "water_tower",
+        "name": "Водонапорная башня Шухова",
+        "old_name": "Водонапорная башня начало XX в.",
+        "start_date": "1932",
+        "tourism": "attraction",
+        "wikidata": "Q13668702",
+        "wikipedia": "ru:Шуховская башня (Краснодар)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9729127,
+          45.0393589
+        ]
+      },
+      "id": "way/124053423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/135635850",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "40",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Гоголя",
+        "architect": "А. А. Козлов",
+        "building": "residential",
+        "building:architecture": "modern",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, 1914 г., архитектор А.А. Козлов",
+        "historic": "house",
+        "old_name": "Дом жилой, 1914 г.",
+        "start_date": "1914",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9654186,
+          45.0276226
+        ]
+      },
+      "id": "way/135635850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/135635883",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "6",
+        "addr:postcode": "350063",
+        "addr:street": "Гимназическая улица",
+        "architect": "З. П. Коршевец",
+        "building": "residential",
+        "description": "Памятник истории и культуры. Жилой дом, архитектор З. П. Коршевец",
+        "historic": "house",
+        "old_name": "Дом П. В. Миронова",
+        "start_date": "1912",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9608255,
+          45.026857
+        ]
+      },
+      "id": "way/135635883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/135636379",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "15",
+        "addr:postcode": "350063",
+        "addr:street": "улица Кирова",
+        "building": "administrative",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, 1900 - 1910 годы",
+        "historic": "house",
+        "old_name": "Дом жилой конец XIX наччало XX",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9631926,
+          45.0239079
+        ]
+      },
+      "id": "way/135636379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/135636391",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "33",
+        "addr:postcode": "350063",
+        "addr:street": "улица Кирова",
+        "building": "residential",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, конец XIX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, конец XIX в.",
+        "start_date": "1920",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9637549,
+          45.0254244
+        ]
+      },
+      "id": "way/135636391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138297627",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "70",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "building": "administrative",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой с торговыми помещениями на первом этаже Демержиева, 1890 - 1900 годы",
+        "historic": "house",
+        "old_name": "Дом жилой Демержиева",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9721912,
+          45.0276099
+        ]
+      },
+      "id": "way/138297627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138298578",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "64А",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красноармейская улица",
+        "building": "administrative",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Обувная фабрика, 1900 - 1911 годы",
+        "historic": "building",
+        "old_name": "Обувная фабрика",
+        "start_date": "1911",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9742362,
+          45.0287901
+        ]
+      },
+      "id": "way/138298578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138320137",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "110",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Коммунаров",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой с торговыми помещениями, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой начало XX в.",
+        "start_date": "1916",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9765096,
+          45.0284534
+        ]
+      },
+      "id": "way/138320137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147001074",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "55",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Рашпилевская улица",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Жилой дом, доходный, начало XX века",
+        "historic": "house",
+        "old_name": "Жилой дом начало XX века",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9684362,
+          45.0261669
+        ]
+      },
+      "id": "way/147001074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147228318",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "143",
+        "addr:postcode": "350002",
+        "addr:street": "улица Будённого",
+        "building": "residential",
+        "building:architecture": "modern",
+        "description": "Памятник истории и культуры. Дом жилой, 1912 г.",
+        "historic": "house",
+        "old_name": "Дом жилой, 1912 г.",
+        "start_date": "1912",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9771182,
+          45.0358174
+        ]
+      },
+      "id": "way/147228318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147228880",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "119",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Коммунаров",
+        "building": "administrative",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой с торговыми помещениями на первом этаже купца А.П. Артемьева, 1888 - 1900 годы",
+        "historic": "house",
+        "old_name": "Дом жилой А.П. Артемьева",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9774346,
+          45.0332659
+        ]
+      },
+      "id": "way/147228880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147228956",
+        "addr2:housenumber": "125",
+        "addr2:street": "улица Горького",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "97",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Коммунаров",
+        "building": "house",
+        "building:levels": "2",
+        "building:material": "brick",
+        "description": "Памятник истории и культуры. Дом жилой, доходный, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, доходный, начало XX в.",
+        "roof:shape": "hipped",
+        "start_date": "1917",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9767485,
+          45.0308542
+        ]
+      },
+      "id": "way/147228956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/156956624",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "33Б",
+        "addr:postcode": "350000",
+        "addr:street": "Красноармейская улица",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, конец XIX - начало XX веков",
+        "historic": "house",
+        "old_name": "Дом жилой, конец XIX - начало XX веков",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9713375,
+          45.0229236
+        ]
+      },
+      "id": "way/156956624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/160359501",
+        "addr:country": "RU",
+        "addr:housenumber": "10",
+        "addr:street": "улица Коммунаров",
+        "building": "yes",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, 1890 - 1900 годы",
+        "historic": "house",
+        "old_name": "Дом жилой",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9718989,
+          45.0150982
+        ]
+      },
+      "id": "way/160359501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/160359728",
+        "addr2:housenumber": "63",
+        "addr2:street": "Комсомольская улица",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "36",
+        "addr:postcode": "350063",
+        "addr:street": "улица Коммунаров",
+        "architect": "А.А. Козлов",
+        "building": "yes",
+        "building:architecture": "modern",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой присяжного поверенного М.В. Максютина, 1910 - 1912 годы, архитектор А.А. Козлов",
+        "historic": "house",
+        "old_name": "Дом жилой присяжного поверенного М.В. Максютина",
+        "start_date": "1912",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9731919,
+          45.0187028
+        ]
+      },
+      "id": "way/160359728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161412452",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "61",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Гимназическая улица",
+        "building": "administrative",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой купцов Аведовых, 1900 - 1908 годы",
+        "historic": "house",
+        "name": "дом купцов Аведовых",
+        "name:en": "Avedovs’ house",
+        "old_name": "Дом купцов Аведовых",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9698393,
+          45.0256102
+        ]
+      },
+      "id": "way/161412452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/163069273",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "14",
+        "addr:postcode": "350063",
+        "addr:street": "улица Коммунаров",
+        "building": "school",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, 1888 - 1900 годы",
+        "historic": "house",
+        "old_name": "Дом жилой 1888-1900",
+        "start_date": "1895",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9721681,
+          45.0157745
+        ]
+      },
+      "id": "way/163069273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/163069280",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "18",
+        "addr:postcode": "350063",
+        "addr:street": "улица Коммунаров",
+        "building": "yes",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой присяжного поверенного В.В. Сербина, 1910 г.",
+        "historic": "manor",
+        "old_name": "Дом жилой присяжного Поверенного В. В.Сербина 1910г.",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9724299,
+          45.0163166
+        ]
+      },
+      "id": "way/163069280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/163210241",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "82",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Гоголя",
+        "building": "yes",
+        "building:levels": "4",
+        "description": "Памятник истории и культуры. Швейная фабрика, 1912 г.",
+        "historic": "building",
+        "old_name": "Швейная фабрика",
+        "start_date": "1912",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9768396,
+          45.0253961
+        ]
+      },
+      "id": "way/163210241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/163217064",
+        "addr:country": "RU",
+        "addr:housenumber": "26/1",
+        "addr:street": "Красная улица",
+        "building": "residential",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Дом художника Е.И. Посполитаки, 1890 - 1900 годы",
+        "historic": "house",
+        "old_name": "Дом художника Е. И. Посполитаки",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.969201,
+          45.0200313
+        ]
+      },
+      "id": "way/163217064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170097955",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "28",
+        "addr:postcode": "350000",
+        "addr:street": "улица Мира",
+        "building": "administrative",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, 1890 - 1900 годы",
+        "historic": "house",
+        "old_name": "Дом жилой, 1890 - 1900 годы",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9715913,
+          45.0205779
+        ]
+      },
+      "id": "way/170097955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173025375",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "12",
+        "addr:postcode": "350033",
+        "addr:street": "улица Братьев Дроздовых",
+        "building": "residential",
+        "description": "Памятник истории и культуры. Жилой дом, конец XIX в.",
+        "historic": "house",
+        "old_name": "Жилой дом, конец XIX в.",
+        "start_date": "1918",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.98912,
+          45.020832
+        ]
+      },
+      "id": "way/173025375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173609724",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "37",
+        "addr:postcode": "350000",
+        "addr:street": "Гимназическая улица",
+        "building": "kindergarten",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Жилой дом, начало 20-го века",
+        "historic": "house",
+        "name": "Детский сад №19 комбинированного вида",
+        "old_name": "Жилой дом, начало XX века",
+        "start_date": "1920",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9640441,
+          45.0266126
+        ]
+      },
+      "id": "way/173609724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203838327",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "162 А",
+        "addr:postcode": "350002",
+        "addr:street": "Красная улица",
+        "building": "yes",
+        "building:architecture": "modern",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, 1908 - 1912 годы",
+        "historic": "house",
+        "start_date": "1912",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9767455,
+          45.0402864
+        ]
+      },
+      "id": "way/203838327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208582576",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "80",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Гоголя",
+        "building": "retail",
+        "building:levels": "3",
+        "building:material": "brick",
+        "description": "Памятник истории и культуры. Дом жилой и пекарня Киор-Оглы, конец XIX в.",
+        "historic": "building",
+        "name": "Купеческий дворъ, бизнес-центр",
+        "old_name": "Дом жилой и пекарня Киор-Оглы",
+        "roof:shape": "gabled",
+        "start_date": "1890",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9762455,
+          45.0256092
+        ]
+      },
+      "id": "way/208582576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209152636",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "83",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Гимназическая улица",
+        "architect": "А. А. Козлов",
+        "building": "yes",
+        "building:architecture": "modern",
+        "building:levels": "4",
+        "description": "Дом врача М.М. Каплана, 1910 - 1913 годы",
+        "government": "register_office",
+        "historic": "house",
+        "name": "ЗАГС Центрального округа",
+        "office": "government",
+        "old_name": "Дом врача М.М. Каплана",
+        "start_date": "1913",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9758035,
+          45.0247572
+        ]
+      },
+      "id": "way/209152636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217890028",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "78",
+        "addr:postcode": "350033",
+        "addr:street": "улица Мира",
+        "architect": "В.А. Филиппов",
+        "building": "yes",
+        "description": "Памятник истории и культуры. Здание конторы Ф.М. Акулова, начало XX в.",
+        "historic": "building",
+        "old_name": "Здание конторы Ф.М. Акулова",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9820117,
+          45.0186756
+        ]
+      },
+      "id": "way/217890028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/222863021",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "101",
+        "addr:postcode": "350000",
+        "addr:street": "Гимназическая улица",
+        "building": "yes",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, начало XX в.",
+        "start_date": "1917",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9795456,
+          45.023998
+        ]
+      },
+      "id": "way/222863021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/222863426",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "93",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Карасунская улица",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, 1905 г.",
+        "historic": "house",
+        "old_name": "Дом жилой, 1905 г.",
+        "start_date": "1905",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9771396,
+          45.0276557
+        ]
+      },
+      "id": "way/222863426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/222888110",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "135",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Горького",
+        "building": "yes",
+        "building:architecture": "modern",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, начало XX в.",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9780191,
+          45.0305882
+        ]
+      },
+      "id": "way/222888110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/231050001",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "77",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "building": "residential",
+        "building:architecture": "eclectic",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Паровая фабрика химчистки и крашения одежды, 1890 - 1900 годы",
+        "historic": "building",
+        "name:signed": "no",
+        "old_name": "Паровая фабрика химчистки и крашения одежды",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9722189,
+          45.0304396
+        ]
+      },
+      "id": "way/231050001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/292676226",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "43/1",
+        "addr:postcode": "350000",
+        "addr:street": "Красная улица",
+        "architect": "А.Г. Якименко",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Краснодарский Дом книги, 1974 г., архитектор А.Г. Якименко",
+        "fire_operator": "RU-KDA-12-1",
+        "fire_rank": "2",
+        "historic": "building",
+        "name": "Краснодарский дом книги",
+        "old_name": "Краснодарский Дом книги",
+        "start_date": "1974",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9704634,
+          45.026195
+        ]
+      },
+      "id": "way/292676226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/344582410",
+        "name": "Цветочные часы",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9799687,
+          45.0540225
+        ]
+      },
+      "id": "node/344582410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/345715290",
+        "building": "yes",
+        "name": "Ротонда",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9692798,
+          45.0100468
+        ]
+      },
+      "id": "way/345715290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370722159",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "33/В",
+        "addr:postcode": "350000",
+        "addr:street": "Красноармейская улица",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Производственное здание (табачный склад), конец XIX - начало XX веков",
+        "historic": "building",
+        "old_name": "Производственное здание (табачный склад)",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9716842,
+          45.0230422
+        ]
+      },
+      "id": "way/370722159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/372054795",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "22/1",
+        "addr:postcode": "350004",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Кожевенная улица",
+        "building": "yes",
+        "description": "Памятник истории и культуры. Дом жилой, 1913 г.",
+        "start_date": "1913",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9411877,
+          45.0382426
+        ]
+      },
+      "id": "way/372054795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/431405444",
+        "historic": "memorial",
+        "name": "Катюша",
+        "start_date": "1985",
+        "tourism": "attraction",
+        "wikidata": "Q126741255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0107533,
+          45.1262513
+        ]
+      },
+      "id": "node/431405444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/483443296",
+        "building": "yes",
+        "name": "Арка памяти воинов-миротворцев и героев-ликвидаторов",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9710181,
+          45.0244533
+        ]
+      },
+      "id": "way/483443296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/551081986",
+        "building": "yes",
+        "name": "Ротонда",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9694658,
+          45.0109454
+        ]
+      },
+      "id": "way/551081986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/554307034",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "39/1",
+        "addr:postcode": "350063",
+        "addr:street": "Постовая улица",
+        "building": "yes",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой атамана Я.Г. Кухаренко, первая половина XIX в.",
+        "historic": "building",
+        "name": "Дом атамана Черноморского казачества Якова Кухаренко",
+        "old_name": "Дом жилой атамана Я.Г. Кухаренко",
+        "start_date": "1900-е гг.",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9618016,
+          45.0162033
+        ]
+      },
+      "id": "way/554307034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/608030849",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "28",
+        "addr:postcode": "350063",
+        "addr:street": "улица Мира",
+        "building": "administrative",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, конец XIX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, конец XIX в.",
+        "start_date": "1890",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9641514,
+          45.0214328
+        ]
+      },
+      "id": "way/608030849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/609928306",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "33",
+        "addr:postcode": "350000",
+        "addr:street": "Карасунская улица",
+        "building": "house",
+        "description": "Памятник истории и культуры. Дом жилой Игинской, 1908 г.",
+        "historic": "house",
+        "old_name": "Дом Игинской",
+        "start_date": "1908",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9646796,
+          45.0296205
+        ]
+      },
+      "id": "way/609928306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/615539289",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "70",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Кирова",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, 1900 - 1910 годы",
+        "historic": "house",
+        "old_name": "Дом жилой, 1900 - 1910 годы",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9657633,
+          45.030161
+        ]
+      },
+      "id": "way/615539289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/615539290",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "35",
+        "addr:postcode": "350063",
+        "addr:street": "улица Кирова",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой, 1906 - 1910 годы",
+        "historic": "house",
+        "old_name": "Дом жилой, 1906 - 1910 годы",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9637575,
+          45.0256048
+        ]
+      },
+      "id": "way/615539290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/616257543",
+        "addr:housenumber": "134А",
+        "addr:postcode": "350000",
+        "addr:street": "улица Кирова",
+        "building": "administrative",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "historic": "house",
+        "name": "жилой дом",
+        "old_name": "Дом жилой, начало XX в.",
+        "start_date": "1918",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9678552,
+          45.0362089
+        ]
+      },
+      "id": "way/616257543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617592676",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "69",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Коммунаров",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой с торговыми помещениями на первом этаже, 1905 - 1910 годы",
+        "historic": "house",
+        "old_name": "ом жилой 1905 - 1910 годы",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9747145,
+          45.0255791
+        ]
+      },
+      "id": "way/617592676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/618762595",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "106",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "building": "residential",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Дом жилой с торговыми помещениями на первом этаже, 1890 - 1900 годы",
+        "historic": "house",
+        "old_name": "Дом жилой 1890 - 1900 годы",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9734407,
+          45.0326063
+        ]
+      },
+      "id": "way/618762595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620080191",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "27",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "улица Леваневского",
+        "building": "residential",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "description": "Памятник истории и культуры. Доходный дом, 1900 - 1910 годы",
+        "historic": "house",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9811807,
+          45.0247225
+        ]
+      },
+      "id": "way/620080191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620851960",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "62",
+        "addr:postcode": "350000",
+        "addr:street": "улица Ленина",
+        "building": "yes",
+        "description": "Памятник истории и культуры. Дом жилой, начало XX в.",
+        "historic": "house",
+        "old_name": "Дом жилой, начало XX в.",
+        "start_date": "1920",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9753112,
+          45.0227395
+        ]
+      },
+      "id": "way/620851960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/622298098",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "37",
+        "addr:postcode": "350063",
+        "addr:street": "Октябрьская улица",
+        "building": "yes",
+        "building:levels": "1",
+        "description": "Памятник истории и культуры. Дом жилой Ч.Ф. Гайтон, начало XX в.",
+        "historic": "house",
+        "name": "Дом жилой Ч.Ф. Гайтон, начало XX в.",
+        "old_name": "Дом жилой Ч.Ф. Гайтон, начало XX в.",
+        "start_date": "1910",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9633525,
+          45.0176761
+        ]
+      },
+      "id": "way/622298098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/678867644",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "37",
+        "addr:postcode": "350000",
+        "addr:street": "улица Фрунзе",
+        "building": "residential",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "historic": "house",
+        "old_name": "Дом жилой 1913г.",
+        "start_date": "1913",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9621765,
+          45.0273609
+        ]
+      },
+      "id": "way/678867644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1223133410",
+        "area": "yes",
+        "name": "Абстракта",
+        "tourism": "attraction",
+        "wikidata": "Q126811923",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0327487,
+          45.0425451
+        ]
+      },
+      "id": "way/1223133410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1372046136",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "26",
+        "addr:postcode": "350000",
+        "addr:street": "Красноармейская улица",
+        "area": "yes",
+        "building": "policlinic",
+        "building:levels": "2",
+        "historic": "building",
+        "name": "Поликлиника №1",
+        "old_name": "Административное здание 1950-е годы",
+        "start_date": "1950",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9716813,
+          45.0209285
+        ]
+      },
+      "id": "way/1372046136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1372396874",
+        "addr:city": "Краснодар",
+        "addr:country": "RU",
+        "addr:housenumber": "93",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красная улица",
+        "architect": "М.Н. Ишунин",
+        "area": "yes",
+        "building": "residential",
+        "building:architecture": "modern",
+        "building:levels": "3",
+        "description": "Памятник истории и культуры. Дом жилой, 1927 г., архитектор М.Н. Ишунин",
+        "historic": "house",
+        "old_name": "Дом жилой, 1927 г.",
+        "start_date": "1927",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9730024,
+          45.0332603
+        ]
+      },
+      "id": "way/1372396874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1374143496",
+        "addr:city": "Краснодар",
+        "addr:housenumber": "61",
+        "addr:street": "улица Захарова",
+        "architect": "А. А. Козлов",
+        "building": "hospital",
+        "building:architecture": "modern",
+        "building:levels": "2",
+        "historic": "building",
+        "name": "Десткий лечебно-реабилитационный центр",
+        "old_name": "Водолечебница им. С. И. Бабич",
+        "start_date": "1916",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9687038,
+          45.0111084
+        ]
+      },
+      "id": "way/1374143496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3891310501",
+        "name": "Визовый центр",
+        "opening_hours": "Mo-Fr 09:00-16:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9606468,
+          45.0203622
+        ]
+      },
+      "id": "node/3891310501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4420611692",
+        "name": "Краснодарский \"IT-парк\"",
+        "name:ru": "Краснодарский \"IT-парк\"",
+        "opening_hours": "24/7",
+        "tourism": "attraction",
+        "website": "http://www.itpark-krasnodar.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0488432,
+          45.0180094
+        ]
+      },
+      "id": "node/4420611692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4989698517",
+        "historic": "ruins",
+        "name": "Сохранившиеся части оригинального памятника Екатерине II",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9689115,
+          45.0153175
+        ]
+      },
+      "id": "node/4989698517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5316007421",
+        "name": "Рояль в кустах",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9927642,
+          45.0576179
+        ]
+      },
+      "id": "node/5316007421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5349516300",
+        "amenity": "arts_centre",
+        "description": "Выставочная площадка",
+        "name": "Краснодарский краевой филиал Российского фонда культуры",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9705363,
+          45.0266708
+        ]
+      },
+      "id": "node/5349516300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5619777530",
+        "circumference": "1",
+        "denotation": "natural_monument",
+        "description": "Памятник природы представляет собой дерево дуба черешчатого, высотой 25 м, диаметром ствола 1м. Проекция кроны дуба составляет 110 м2",
+        "genus": "Дубовые",
+        "height": "25",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Дуб \"Кудрявый\"",
+        "natural": "tree",
+        "species": "Черешчатый",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9888102,
+          45.020862
+        ]
+      },
+      "id": "node/5619777530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5619777544",
+        "circumference": "1",
+        "denotation": "natural_monument",
+        "description": "Памятник природы представляет собой дерево дуба черешчатого, высотой 25 метров и диаметром ствола 1 м. Проекция кроны составляет 170 м2",
+        "genus": "Дубовые",
+        "height": "25",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Дуб \"Красавец\"",
+        "natural": "tree",
+        "species": "Черешчатый",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9886613,
+          45.0204743
+        ]
+      },
+      "id": "node/5619777544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5619777545",
+        "circumference": "1",
+        "denotation": "natural_monument",
+        "description": "Памятник природы представляет собой дерево дуба черешчатого, высотой 15 метров, с проекцией кроны 50 м2. Диаметр ствола – один метр",
+        "genus": "Дубовые",
+        "height": "15",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Дуб \"Долгожитель\"",
+        "natural": "tree",
+        "species": "Черешчатый",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9886345,
+          45.0203056
+        ]
+      },
+      "id": "node/5619777545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5619777546",
+        "circumference": "0.7",
+        "denotation": "natural_monument",
+        "description": "Памятник природы представляет собой дерево дуба черешчатого, высотой 20 м и диаметром ствола 0,7 м. Проекция кроны дуба составляет 160м2",
+        "genus": "Дубовые",
+        "height": "20",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Дуб \"Молодежный\"",
+        "natural": "tree",
+        "species": "Черешчатый",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9891294,
+          45.0205359
+        ]
+      },
+      "id": "node/5619777546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5619777559",
+        "denotation": "natural_monument",
+        "description": "Памятник природы «Дуб Краснодарец» представляет собой дерево дуба черешчатого (Quércus róbur). Дуб посажен в XVIII веке, его возраст около 300 лет. Растёт до 200 лет, затем рост прекращается. Прирост в толщину продолжается на протяжении всей жизни.",
+        "genus": "Дубовые",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Дуб \"Краснодарец\"",
+        "natural": "tree",
+        "species": "Черешчатый",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9896108,
+          45.0211824
+        ]
+      },
+      "id": "node/5619777559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5619777564",
+        "circumference": "0.7",
+        "denotation": "natural_monument",
+        "description": "Памятник природы представляет собой дерево дуба черешчатого, высотой 25 м, диаметром ствола 0,7м. Проекция кроны дерева составляет 200 м2. Крона раскидистая. Территория вокруг ствола дерева заасфальтирована.",
+        "genus": "Дубовые",
+        "height": "25",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Дуб \"Старик\"",
+        "natural": "tree",
+        "species": "Черешчатый",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9940198,
+          45.0229342
+        ]
+      },
+      "id": "node/5619777564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5624255125",
+        "circumference": "0.9",
+        "denotation": "natural_monument",
+        "description": "Памятник природы",
+        "height": "27",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Платан",
+        "natural": "tree",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9688445,
+          45.0108824
+        ]
+      },
+      "id": "node/5624255125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5624264121",
+        "circumference": "1.05",
+        "denotation": "natural_monument",
+        "description": "Памятник природы",
+        "height": "35",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Платан",
+        "natural": "tree",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9686981,
+          45.0109068
+        ]
+      },
+      "id": "node/5624264121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5624274322",
+        "historic": "memorial",
+        "memorial": "bust",
+        "name": "Суворов Александр Васильевич",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9698823,
+          45.0151549
+        ]
+      },
+      "id": "node/5624274322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5624278622",
+        "denotation": "natural_monument",
+        "description": "Древнее реликтовое дерево, родом из Китая. Оно привезено из Китая и посажено в 1905 году. Это листопадное, двудомное ветроопыляемое растение. Крона пирамидальная или цилиндрическая. Листья плоские с характерной выемкой на вершине, собраны пучками.",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Гинкго двулопастный",
+        "natural": "tree",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9699862,
+          45.0147991
+        ]
+      },
+      "id": "node/5624278622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5624278623",
+        "circumference": "0.9",
+        "denotation": "natural_monument",
+        "description": "Дерево высотой около 30 метров, диаметр  ствола на высоте одного метра от основания дерева составляет  90 см, проекция кроны 320 м2",
+        "height": "30",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Платан",
+        "natural": "tree",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9715753,
+          45.0152651
+        ]
+      },
+      "id": "node/5624278623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5624280221",
+        "circumference": "1.2",
+        "denotation": "natural_monument",
+        "description": "Высота дерева- 25 метров, крона густая зеленая шатроподобная асимметричная раскидистая, ее проекция составляет 560м 2 . Мощный ствол на высоте 5 м от земли разделяются на 4 скелетные ветви. Диаметр ствола на высоте 1м от земли составляет 120 сантиметров.",
+        "genus": "Дубовые",
+        "height": "25",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Дуб \"Великан\"",
+        "natural": "tree",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9700732,
+          45.0147086
+        ]
+      },
+      "id": "node/5624280221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5624306022",
+        "circumference": "1",
+        "denotation": "natural_monument",
+        "description": "Дерево высотой 30 метров, диаметр ствола на высоте одного метра от основания дерева составляет  сто сантиметров. Крона раскидистая, проекция кроны составляет 300 м2",
+        "height": "30",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Платан",
+        "natural": "tree",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9716052,
+          45.0153747
+        ]
+      },
+      "id": "node/5624306022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5624370823",
+        "circumference": "1.6",
+        "denotation": "natural_monument",
+        "description": "Высота дерева составляет 30 м, проекция кроны — 210 м2, диаметр ствола на высоте 1 метра от основания дерева — 1,60 м.Дерево посажено в 1925 году. Это мощное высокое дерево с раскидистой кроной с несколько провисающими нижними ветвями. Дерево плодоносит.",
+        "height": "30",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Платан кленолистный \"Красавец\"",
+        "natural": "tree",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9701901,
+          45.0244448
+        ]
+      },
+      "id": "node/5624370823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5624370824",
+        "circumference": "1.4",
+        "denotation": "natural_monument",
+        "description": "Высота дерева составляет 31 м, диаметр ствола на высоте 1 м от основания дерева – 1,40 м, проекция кроны 260 м2",
+        "height": "31",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "Платан кленолистный \"Красный\"",
+        "natural": "tree",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.970282,
+          45.0247117
+        ]
+      },
+      "id": "node/5624370824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5774747258",
+        "name": "Пирамида",
+        "natural": "peak",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0335794,
+          45.0413169
+        ]
+      },
+      "id": "node/5774747258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5776767909",
+        "addr:country": "RU",
+        "addr:housenumber": "39",
+        "addr:postcode": "350000",
+        "addr:region": "Краснодарский край",
+        "addr:street": "Красноармейская улица",
+        "building": "yes",
+        "description": "Памятник истории и культуры. Гостиница \"Гранд-Отель\" Е.Г. Губкиной, 1888 - 1900 годы",
+        "old_name": "Гостиница \"Гранд-Отель\" Е.Г. Губкиной",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.972674,
+          45.0252367
+        ]
+      },
+      "id": "node/5776767909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6152369991",
+        "denotation": "natural_monument",
+        "leaf_cycle": "deciduous",
+        "leaf_type": "broadleaved",
+        "name": "100-летний дуб «Титан»",
+        "natural": "tree",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0559054,
+          45.0022094
+        ]
+      },
+      "id": "node/6152369991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6499481655",
+        "historic": "memorial",
+        "inscription": "Фрагмент ограды Дворца наказного атамана 1894-1895 годы архитектор Н.Д. Малама",
+        "memorial": "plaque",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9698919,
+          45.0158082
+        ]
+      },
+      "id": "node/6499481655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8302419517",
+        "name": "Бутылочное дерево (хоризия)",
+        "name:en": "Chorisia speciosa",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0320288,
+          45.0417792
+        ]
+      },
+      "id": "node/8302419517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8935181917",
+        "name": "Граффити - Начинаем погружение",
+        "name:en": "Graffiti",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9718498,
+          45.031211
+        ]
+      },
+      "id": "node/8935181917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9799386317",
+        "addr:postcode": "350000",
+        "name": "дом врача М.М.Каплана",
+        "name:en": "old house of Dr.Kaplan",
+        "opening_hours": "Tu-We, Fr-Sa 09:00-18:00",
+        "phone": "+7 (861) 262-44-75",
+        "tourism": "attraction",
+        "website": "http://kuban.uzags.ru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9757468,
+          45.0245974
+        ]
+      },
+      "id": "node/9799386317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9799396917",
+        "name": "дом Х.И.Фотиади",
+        "name:en": "old house of Fotiadi",
+        "opening_hours": "Su 00:00-00:00",
+        "tourism": "attraction",
+        "website": "https://krasnodartour.com/dom-fotiadi/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9739458,
+          45.023351
+        ]
+      },
+      "id": "node/9799396917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9799403817",
+        "name": "дореволюционный дом",
+        "name:en": "old house (1900s)",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9750691,
+          45.021586
+        ]
+      },
+      "id": "node/9799403817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920588318",
+        "name": "Дуб заповедный 1440 г.",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9729434,
+          45.0128244
+        ]
+      },
+      "id": "node/9920588318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920598617",
+        "name": "Дуб-великан 1670 г.",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9729347,
+          45.0120049
+        ]
+      },
+      "id": "node/9920598617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11335576469",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9540279,
+          45.0107339
+        ]
+      },
+      "id": "node/11335576469"
+    }
+  ]
+}

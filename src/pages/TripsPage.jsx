@@ -60,7 +60,7 @@ function TripsPage() {
 
   return (
     <div className="trips-page">
-      <h2 className="trips-heading">Ваши запланированные путешествия</h2>
+      <h2 className="trips-heading">Ваши забронированные путешествия</h2>
       {trips.length > 0 ? (
         <ul className="trip-list">
           {trips.map((trip) => (

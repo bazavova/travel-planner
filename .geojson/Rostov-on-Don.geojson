@@ -1,0 +1,2193 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-05-17T21:32:10Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/11217353",
+        "addr:city": "Ростов-на-Дону",
+        "addr:country": "RU",
+        "addr:housenumber": "10",
+        "addr:street": "Береговая улица",
+        "building": "commercial",
+        "building:levels": "2",
+        "name": "Речной вокзал",
+        "name:en": "River Station",
+        "name:ru": "Речной вокзал",
+        "tourism": "attraction",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7099774,
+          47.2130815
+        ]
+      },
+      "id": "relation/11217353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/83824546",
+        "addr:housenumber": "1",
+        "addr:street": "улица Баграмяна",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "cadastre:utilization": "для эксплуатации музея \"сурб-хач\"",
+        "denomination": "armenian_apostolic",
+        "historic": "church",
+        "name": "Церковь Сурб Хач",
+        "religion": "christian",
+        "source:addr": "rosreestr.ru",
+        "tourism": "attraction",
+        "wikidata": "Q4505234",
+        "wikipedia": "ru:Церковь Сурб Хач (Ростов-на-Дону)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7219051,
+          47.2905354
+        ]
+      },
+      "id": "way/83824546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105036676",
+        "addr:housenumber": "49Е",
+        "addr:street": "Шоссейная улица",
+        "building": "yes",
+        "cadastre:utilization": "для эксплуатации спортивной гребной базы",
+        "name": "Водная станция \"Динамо\"",
+        "source:addr": "rosreestr.ru",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7069076,
+          47.2094779
+        ]
+      },
+      "id": "way/105036676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/562574150",
+        "historic": "yes",
+        "layer": "1",
+        "man_made": "bridge",
+        "name": "Ростовский разводной ж/д мост",
+        "official_name": "Ростовский разводной железнодорожный мост",
+        "source": "Постановление правительства РО от 20 марта 2019 № 172 «Об установлении зон охраны объекта культурного наследия регионального значения «Железнодорожный мост через реку Дон, 1917 г., восст.1952 г.»",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7018269,
+          47.2099071
+        ]
+      },
+      "id": "way/562574150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1179770924",
+        "building": "yes",
+        "name": "Перевёрнутый дом",
+        "opening_hours": "11:00-20:00",
+        "phone": "89289592391",
+        "tourism": "attraction",
+        "website": "https://cultstroy.su/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7362519,
+          47.2134268
+        ]
+      },
+      "id": "way/1179770924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1476426351",
+        "addr:city": "Ростов-на-Дону",
+        "addr:country": "RU",
+        "addr:housenumber": "33",
+        "addr:street": "Ворошиловский проспект",
+        "name": "Доходный дом С.И.Шендерова",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7191224,
+          47.2204563
+        ]
+      },
+      "id": "node/1476426351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4504961589",
+        "addr:housenumber": "10",
+        "addr:street": "Курская улица",
+        "name": "Инсталляция Гуманоид",
+        "name:ru": "Инсталляция Гуманоид",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6690788,
+          47.2429733
+        ]
+      },
+      "id": "node/4504961589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109222523",
+        "name": "Ворошиловский мост",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7223721,
+          47.2144877
+        ]
+      },
+      "id": "node/5109222523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109223322",
+        "name": "Трущобы Суворовские",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.729031,
+          47.2253432
+        ]
+      },
+      "id": "node/5109223322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109225725",
+        "historic": "building",
+        "name": "Дом братьев Мартын",
+        "start_date": "1893",
+        "tourism": "attraction",
+        "wikidata": "Q16645542",
+        "wikipedia": "ru:Дом братьев Мартын"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7362082,
+          47.2263078
+        ]
+      },
+      "id": "node/5109225725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109225726",
+        "addr:housenumber": "27/47",
+        "addr:street": "Большая Садовая улица",
+        "name": "Дом Маргариты Черновой",
+        "start_date": "1899",
+        "tourism": "attraction",
+        "wikidata": "Q16645450",
+        "wikipedia": "ru:Дом Маргариты Черновой"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7023264,
+          47.2192489
+        ]
+      },
+      "id": "node/5109225726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109225727",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7467814,
+          47.2272995
+        ]
+      },
+      "id": "node/5109225727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109225728",
+        "name": "Доходный дом Бострикиных",
+        "tourism": "attraction",
+        "wikidata": "Q16646113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7181353,
+          47.2255879
+        ]
+      },
+      "id": "node/5109225728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109225729",
+        "name": "Клуб приказчиков",
+        "tourism": "attraction",
+        "wikidata": "Q16664056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7172912,
+          47.2201964
+        ]
+      },
+      "id": "node/5109225729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109750121",
+        "historic": "building",
+        "name": "Дом Врангеля",
+        "start_date": "1885",
+        "tourism": "attraction",
+        "wikidata": "Q16645410",
+        "wikipedia": "ru:Дом Врангеля"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7185763,
+          47.2162587
+        ]
+      },
+      "id": "node/5109750121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109750122",
+        "name": "Ливенцовское городище",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5590654,
+          47.2230369
+        ]
+      },
+      "id": "node/5109750122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109855125",
+        "name": "Доходный дом Токарева",
+        "tourism": "attraction",
+        "wikidata": "Q16646131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7245282,
+          47.223461
+        ]
+      },
+      "id": "node/5109855125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109855126",
+        "historic": "building",
+        "name": "Доходный дом В. К. и С. К. Чириковых, 1914 г.",
+        "source": "Постановление правительства РО от 10 мая 2018 № 304 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Доходный дом В.К. и С.К. Чириковых, 1914 г., арх. Л.Ф. Эберг»",
+        "tourism": "attraction",
+        "wikidata": "Q16646137",
+        "wikipedia": "ru:Доходный дом Чирикова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7063706,
+          47.2239851
+        ]
+      },
+      "id": "node/5109855126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109855127",
+        "addr:housenumber": "4",
+        "addr:street": "площадь Свободы",
+        "name": "Особняк Ф.С.Кечекьяна",
+        "tourism": "attraction",
+        "wikidata": "Q16683702",
+        "wikipedia": "ru:Особняк Кечекьяна"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7634702,
+          47.2288085
+        ]
+      },
+      "id": "node/5109855127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109855128",
+        "addr:housenumber": "26/57",
+        "addr:street": "Будённовский проспект",
+        "name": "Доходный дом Бахчисарайцева нач xx века",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7084679,
+          47.219159
+        ]
+      },
+      "id": "node/5109855128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109855323",
+        "name": "Здание городской думы 1899 год",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7126132,
+          47.2214565
+        ]
+      },
+      "id": "node/5109855323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109855722",
+        "historic": "building",
+        "name": "Здание торговой школы",
+        "source": "Постановление правительства РО от 10 мая 2018 № 295 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Здание Торговой школы»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7097517,
+          47.2254828
+        ]
+      },
+      "id": "node/5109855722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109855723",
+        "addr:housenumber": "46",
+        "addr:street": "Газетный переулок",
+        "name": "Туалет на Газетном",
+        "tourism": "attraction",
+        "wikidata": "Q16708197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7161248,
+          47.2214941
+        ]
+      },
+      "id": "node/5109855723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109877121",
+        "historic": "building",
+        "name": "Жилой дом М. Г. Гавалла, кон. XIX в.",
+        "source": "Постановление правительства РО от 19 декабря 2018 № 828 «Об установлении зон охраны объекта культурного наследия регионального значения «Жилой дом М.Г. Гавалла, кон. XIX в.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7122322,
+          47.2249312
+        ]
+      },
+      "id": "node/5109877121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5120084022",
+        "name:en": "Don Boat trip",
+        "name:it": "Giro sul Don",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.715102,
+          47.2136923
+        ]
+      },
+      "id": "node/5120084022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5636124140",
+        "name": "ГСК «ДОН»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7219147,
+          47.2240662
+        ]
+      },
+      "id": "node/5636124140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5794281155",
+        "historic": "memorial",
+        "material": "concrete",
+        "memorial": "war_memorial",
+        "name": "ЖДОТ - защитник города воинской славы",
+        "name:en": "Concrete Pillbox - the protector of City of Military Glory",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6691037,
+          47.229398
+        ]
+      },
+      "id": "node/5794281155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6325116985",
+        "name": "Якорь #800",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7099059,
+          47.2153332
+        ]
+      },
+      "id": "node/6325116985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6325122386",
+        "name": "Памятный знак \"Ротонда\"",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7090507,
+          47.223921
+        ]
+      },
+      "id": "node/6325122386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6325160992",
+        "name": "Памятный знак \"Дуб зелёный\"",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7143808,
+          47.2250496
+        ]
+      },
+      "id": "node/6325160992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387488285",
+        "name": "Колесо обозрения \"Одно небо\"",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7431489,
+          47.2291758
+        ]
+      },
+      "id": "node/6387488285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6507576444",
+        "name": "Особняк Гайрабетовых",
+        "name:en": "Gayrabetov Mansion",
+        "name:hy": "Հայրապետովների առանձնատուն",
+        "start_date": "1880",
+        "tourism": "attraction",
+        "wikidata": "Q16683690",
+        "wikipedia": "ru:Особняк Гайрабетовых"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7651431,
+          47.2290442
+        ]
+      },
+      "id": "node/6507576444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6618066654",
+        "historic": "building",
+        "name": "Доходный дом П. С. Шатова, 1911 г.",
+        "source": "Постановление от 28 февраля 2018 № 100 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Доходный дом П.С. Шатова, 1911 г.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7196759,
+          47.2264729
+        ]
+      },
+      "id": "node/6618066654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6618066656",
+        "historic": "building",
+        "name": "Доходный дом И. С. Леванидова",
+        "source": "Постановление от 28 февраля 2018 № 98 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Доходный дом И.С. Леванидова»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7066578,
+          47.2155201
+        ]
+      },
+      "id": "node/6618066656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6618066658",
+        "historic": "building",
+        "name": "Здание Ростовского соединенного среднего механико-химико-технического и ремесленного училища",
+        "source": "Постановление от 21 декабря 2017 № 871 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Здание Ростовского соединенного среднего механико-химико-технического и ремесленного училища»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6998048,
+          47.2263445
+        ]
+      },
+      "id": "node/6618066658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6618066659",
+        "historic": "building",
+        "name": "Жилой дом К. Н. Руденького, 1895 г.",
+        "source": "Постановление от 21 декабря 2017 № 869 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Жилой дом К.Н. Руденького, 1895 г.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.702723,
+          47.2251104
+        ]
+      },
+      "id": "node/6618066659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6618066660",
+        "historic": "building",
+        "name": "Доходный дом А. А. Лозе, 1900-е гг.",
+        "source": "Постановление от 21 декабря 2017 № 868 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Доходный дом А.А.Лозе, 1900-е гг.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7008347,
+          47.2251915
+        ]
+      },
+      "id": "node/6618066660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716447578",
+        "historic": "building",
+        "name": "Дом Я. А. Фельдмана, кон. ХIХ в.",
+        "source": "Постановление правительства РО от 06 июня 2018 № 379 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Дом Я.А. Фельдмана, кон. ХIХ в.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7255084,
+          47.2225456
+        ]
+      },
+      "id": "node/6716447578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716447579",
+        "historic": "building",
+        "name": "Доходный дом Е. П. Ляхмаер",
+        "source": "Постановление правительства РО от 06 июня 2018 № 378 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Доходный дом Е.П. Ляхмаер»",
+        "tourism": "attraction",
+        "wikidata": "Q28752060",
+        "wikipedia": "ru:Доходный дом Ляхмаер"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7206925,
+          47.2169912
+        ]
+      },
+      "id": "node/6716447579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716447580",
+        "historic": "building",
+        "name": "Доходный дом Т. Г. Дмитриева",
+        "source": "Постановление правительства РО от 06 июня 2018 № 377 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Доходный дом Т.Г. Дмитриева»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7303303,
+          47.2261988
+        ]
+      },
+      "id": "node/6716447580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716447582",
+        "historic": "building",
+        "name": "Здание бани Х.-Г.Е. Глуховского",
+        "source": "Постановление правительства РО от 06 июня 2018 № 376 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Здание бани Х.-Г.Е. Глуховского»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7301915,
+          47.2266341
+        ]
+      },
+      "id": "node/6716447582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716447583",
+        "historic": "building",
+        "name": "Жилой дом И. В. Кащенко, 1896 г.",
+        "source": "Постановление правительства РО от 06 июня 2018 № 375 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Жилой дом И.В. Кащенко, 1896 г.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7230877,
+          47.2252152
+        ]
+      },
+      "id": "node/6716447583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716447584",
+        "historic": "building",
+        "name": "Особняк, в котором жил дважды Герой СССР И. А. Плиев",
+        "source": "Постановление правительства РО от 06 июня 2018 № 374 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Особняк, в котором жил дважды Герой СССР И.А. Плиев»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7234847,
+          47.2253973
+        ]
+      },
+      "id": "node/6716447584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716456285",
+        "historic": "building",
+        "name": "Дом страхового общества «Россия», 1914 г.",
+        "source": "Постановление правительства РО от 6 июн. 2018 № 372 \"Об утверждении границ зон охраны объекта культурного наследия регионального значения «Дом страхового общества «Россия», 1914 г.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7185601,
+          47.2237379
+        ]
+      },
+      "id": "node/6716456285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716456286",
+        "historic": "building",
+        "name": "Комплекс зданий треста «Ростовуголь»",
+        "source": "Постановление правительства РО от 06 июня 2018 № 371 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Комплекс зданий треста «Ростовуголь», 1950-е гг., арх. В.И. Григор, В.И. Симонович, Е.Е. Григор",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.720034,
+          47.2230238
+        ]
+      },
+      "id": "node/6716456286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716456289",
+        "historic": "building",
+        "name": "Здание товарищества «М. Гельферих-Саде»",
+        "source": "Постановление правительства РО от 06 июня 2018 № 370 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Здание товарищества «М. Гельферих-Саде», с 1956 г. – Областной краеведческий музей.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7224882,
+          47.2235557
+        ]
+      },
+      "id": "node/6716456289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716456290",
+        "historic": "building",
+        "name": "Жилой дом семьи Е. Т. Парамонова",
+        "source": "Постановление правительства РО от 06 июня 2018 № 369 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Жилой дом семьи Е.Т. Парамонова»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7193769,
+          47.2235667
+        ]
+      },
+      "id": "node/6716456290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716456291",
+        "historic": "building",
+        "name": "Здание 7-го городского училища, 1895 г., арх. Н. А. Дорошенко",
+        "source": "Постановление правительства РО от 10 мая 2018 № 305 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Здание 7-го городского училища, 1895 г., арх. Н.А. Дорошенко»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6945731,
+          47.2282097
+        ]
+      },
+      "id": "node/6716456291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716456293",
+        "historic": "building",
+        "name": "Доходный дом В. К. и С. К. Чириковых, 1912 г.",
+        "source": "Постановление правительства РО от 10 мая 2018 № 296 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Доходный дом В.К. и С.К. Чириковых, 1912 г., арх. Л.Ф. Эберг»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7069663,
+          47.2238153
+        ]
+      },
+      "id": "node/6716456293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716456294",
+        "historic": "building",
+        "name": "Доходный дом Л. Г. Адлера",
+        "source": "Постановление правительства РО от 10 мая 2018 № 294 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Доходный дом Л.Г. Адлера, 1896 г.»",
+        "start_date": "1896",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7073056,
+          47.2238481
+        ]
+      },
+      "id": "node/6716456294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716456295",
+        "historic": "building",
+        "name": "Доходный дом А. П. Ливус",
+        "source": "Постановление правительства РО от 10 мая 2018 № 286 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Доходный дом А.П. Ливус, 1910-е гг.»",
+        "start_date": "1910",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7093682,
+          47.2242898
+        ]
+      },
+      "id": "node/6716456295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716456297",
+        "historic": "building",
+        "name": "Особняк И. А. Супрунова",
+        "source": "Постановление правительства РО от 10 мая 2018 № 285 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Особняк И.А. Супрунова, нач. XX в.»",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "wikidata": "Q16683722",
+        "wikipedia": "ru:Особняк Супрунова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7098336,
+          47.2244228
+        ]
+      },
+      "id": "node/6716456297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716456298",
+        "historic": "building",
+        "name": "Здание театра ГОМЭЦ",
+        "source": "Постановление Правительства РО от 10 мая 2018 № 283 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Здание театра ГОМЭЦ, с 1959 г. – кинотеатр «Россия», 1935 г., арх. Л.Ф. Эберг, Л.Л. Эберг.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7084549,
+          47.2233736
+        ]
+      },
+      "id": "node/6716456298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716456299",
+        "historic": "building",
+        "name": "Доходный дом купца К. Д. Дракина, 1889 г.",
+        "source": "Постановление правительства РО от 04 апреля 2018 № 216 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Доходный дом купца К.Д. Дракина, 1889 г.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7033238,
+          47.2289191
+        ]
+      },
+      "id": "node/6716456299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716456301",
+        "historic": "building",
+        "name": "Особняк Я. Амираева",
+        "source": "Постановление правительства РО от 21 марта 2018 № 182 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Особняк Я. Амираева»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7623016,
+          47.2293681
+        ]
+      },
+      "id": "node/6716456301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716456302",
+        "historic": "building",
+        "name": "Здание Екатерининской женской гимназии, 1893 г., арх. Н. Н. Дурбах, реконструкция в 1910 г., арх. Х. К. Гусикьянц",
+        "source": "Постановление правительства РО от 21 марта 2018 № 180 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Здание Екатерининской женской гимназии, 1893 г., арх. Н.Н. Дурбах, реконструкция в 1910 г., арх. Х.К. Гусикьянц»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7631478,
+          47.2294301
+        ]
+      },
+      "id": "node/6716456302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716456303",
+        "historic": "building",
+        "name": "Особняк Л. Попова",
+        "source": "Постановление правительства РО от 21 марта 2018 № 179 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Особняк Л.Попова, 1891 г., арх. Н.Н. Дурбах»",
+        "tourism": "attraction",
+        "wikidata": "Q16683708",
+        "wikipedia": "ru:Особняк Лусегена Попова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7622104,
+          47.2295175
+        ]
+      },
+      "id": "node/6716456303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716456304",
+        "historic": "building",
+        "name": "Главный корпус Ростовского института железнодорожного транспорта, 1930-е гг. Восстановлен в нач. 1950-х гг.",
+        "source": "Постановление правительства РО от 21 марта 2018 № 165 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Главный корпус Ростовского института железнодорожного транспорта, 1930-е гг. Восстановлен в нач. 1950-х гг.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6980131,
+          47.2508708
+        ]
+      },
+      "id": "node/6716456304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716456305",
+        "historic": "building",
+        "name": "Доходный дом О. Б. Габриловича, 1910 г.",
+        "source": "Постановление правительства РО от 14 марта 2018 № 132 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Доходный дом О.Б. Габриловича, 1910 г.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7207877,
+          47.2267434
+        ]
+      },
+      "id": "node/6716456305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716456306",
+        "historic": "building",
+        "name": "Особняк П.И.Крамера",
+        "source": "Постановление правительства РО от 28 февраля 2018 № 115 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Доходный дом П.И. Крамер, 1910-е гг.»",
+        "start_date": "1914",
+        "tourism": "attraction",
+        "wikidata": "Q16683712",
+        "wikipedia": "ru:Особняк Павла Крамера"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7190608,
+          47.2254689
+        ]
+      },
+      "id": "node/6716456306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721500959",
+        "historic": "building",
+        "name": "Доходный дом Е. М. Шпильрейн",
+        "source": "Постановление правительства РО от 01 ноября 2018 № 698 «Об установлении зон охраны объекта культурного наследия регионального значения «Доходный дом Е.М. Шпильрейн, 1897 г.»",
+        "start_date": "1897",
+        "tourism": "attraction",
+        "wikidata": "Q16683698",
+        "wikipedia": "ru:Особняк Евы Шпильрейн"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.710643,
+          47.2245505
+        ]
+      },
+      "id": "node/6721500959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721500960",
+        "historic": "building",
+        "name": "Дом П. М. Заславской",
+        "source": "Постановление правительства РО от 01 ноября 2018 № 697 «Об установлении зон охраны объекта культурного наследия регионального значения «Дом П.М. Заславской, 1910-е гг.»",
+        "start_date": "1910",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7114761,
+          47.2247605
+        ]
+      },
+      "id": "node/6721500960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721500961",
+        "historic": "building",
+        "name": "Комплекс казенных винных складов",
+        "source": "Постановление правительства РО от 01 августа 2018 № 483 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Комплекс казенных винных складов»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7034823,
+          47.2303528
+        ]
+      },
+      "id": "node/6721500961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721500963",
+        "historic": "building",
+        "name": "Здание банка, кон. XIX – нач. XX вв.",
+        "source": "Постановление правительства РО от 04 июля 2018 № 444 «Об утверждении границ зон охраны объекта культурного наследия федерального значения «Здание банка, кон. XIX – нач. XX вв.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7219385,
+          47.2225072
+        ]
+      },
+      "id": "node/6721500963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721636241",
+        "historic": "building",
+        "name": "Доходный дом М. П. Горева, нач. ХХ в.",
+        "source": "Постановление правительства РО от 19 декабря 2018 № 830 «Об установлении зон охраны объекта культурного наследия регионального значения «Доходный дом М.П. Горева, нач. ХХ в.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7116373,
+          47.2252325
+        ]
+      },
+      "id": "node/6721636241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721636242",
+        "historic": "building",
+        "name": "Здание городских начальных училищ им. Е.Т. Парамонова",
+        "source": "Постановление правительства РО от 19 декабря 2018 № 829 «Об установлении зон охраны объекта культурного наследия регионального значения «Здание городских начальных училищ им. Е.Т. Парамонова, 1913 г., арх. Г.Н. Васильев»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7236022,
+          47.2266886
+        ]
+      },
+      "id": "node/6721636242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721636243",
+        "historic": "building",
+        "name": "Доходный дом Ш.-Х.Л. Фридлянд, кон. XIX – нач. XX вв.",
+        "source": "Постановление правительства РО от 19 декабря 2018 № 827 «Об установлении зон охраны объекта культурного наследия регионального значения «Доходный дом Ш.-Х.Л. Фридлянд, кон. XIX – нач. XX вв.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7218951,
+          47.2269496
+        ]
+      },
+      "id": "node/6721636243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721636245",
+        "historic": "building",
+        "name": "Доходный дом П. И. Ливенского",
+        "source": "Постановление правительства РО от 19 декабря 2018 № 826 «Об установлении зон охраны объекта культурного наследия регионального значения «Доходный дом П.И. Ливенского»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7226786,
+          47.2272003
+        ]
+      },
+      "id": "node/6721636245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721682622",
+        "historic": "building",
+        "name": "Доходный дом Ф. Я. Стадниченко",
+        "source": "Постановление правительства РО от 21 февраля 2019 № 86 «Об установлении зон охраны объекта культурного наследия регионального значения «Доходный дом Ф.Я. Стадниченко»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6847469,
+          47.220427
+        ]
+      },
+      "id": "node/6721682622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721682628",
+        "historic": "building",
+        "name": "Здание Иоанно-Предтеченской школы",
+        "source": "Постановление правительства РО от 21 февраля 2019 № 85 «Об установлении зон охраны объекта культурного наследия регионального значения «Здание притча Иоанно-Предтеченской школы»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6852323,
+          47.2208834
+        ]
+      },
+      "id": "node/6721682628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721682629",
+        "historic": "building",
+        "name": "Дворец культуры железнодорожников",
+        "source": "Постановление правительства РО от 21 февраля 2019 № 84 «Об установлении зон охраны объекта культурного наследия регионального значения «Дворец культуры железнодорожников, 1930 г., арх. Л.Ф. Эберг, восст. в 1950-е гг.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.685412,
+          47.2198942
+        ]
+      },
+      "id": "node/6721682629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721682631",
+        "historic": "building",
+        "name": "Дом актера, 1930-е гг.",
+        "source": "Постановление правительства РО от 21 февраля 2019 № 83 «Об установлении зон охраны объекта культурного наследия регионального значения «Дом актера, 1930-е гг.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7432619,
+          47.2323515
+        ]
+      },
+      "id": "node/6721682631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721682636",
+        "addr:city": "Ростов-на-Дону",
+        "addr:housenumber": "33",
+        "addr:street": "улица Вагулевского",
+        "historic": "building",
+        "name": "Жилой дом Т. М. Ивановой",
+        "source": "Постановление правительства РО от 21 февраля 2019 № 82 «Об установлении зон охраны объекта культурного наследия регионального значения «Жилой дом Т.М. Ивановой, в котором находился штаб дружины в период декабрьского вооруженного восстания 1905 г.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6904747,
+          47.2155684
+        ]
+      },
+      "id": "node/6721682636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721682637",
+        "historic": "building",
+        "name": "Склад мельницы Парамонова, нач. XX в.",
+        "source": "Постановление правительства РО от 21 февраля 2019 № 80 «Об установлении зон охраны объекта культурного наследия регионального значения «Склад мельницы Парамонова, нач. XX в.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7426358,
+          47.220127
+        ]
+      },
+      "id": "node/6721682637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6721682640",
+        "historic": "building",
+        "name": "Контора Н. А. Панина",
+        "source": "Постановление правительства РО от 21 февраля 2019 № 78 «Об установлении зон охраны объекта культурного наследия регионального значения «Контора Н.А. Панина»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7067337,
+          47.2132143
+        ]
+      },
+      "id": "node/6721682640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6724878972",
+        "historic": "building",
+        "name": "Дом страхового общества «Россия», 1910-е гг.",
+        "source": "Постановление правительства РО от 8 мая 2019 № 304 Об установлении зон охраны объекта культурного наследия регионального значения «Дом страхового общества «Россия», 1910-е гг.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7187224,
+          47.2232187
+        ]
+      },
+      "id": "node/6724878972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6724878973",
+        "historic": "building",
+        "name": "Загородный усадебный комплекс Кошкиных, Панченко, Асмоловых",
+        "source": "Постановление правительства РО от 28 мар. 2019 № 202 Об установлении зон охраны объекта культурного наследия регионального значения «Загородный усадебный комплекс с парком, фонтаном и купеческими домами: Кошкиных, Панченко, Асмоловых»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6944618,
+          47.2649608
+        ]
+      },
+      "id": "node/6724878973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6724878974",
+        "historic": "building",
+        "name": "Загородный усадебный комплекс Кошкиных, Панченко, Асмоловых",
+        "source": "Постановление правительства РО от 28 мар. 2019 № 202 Об установлении зон охраны объекта культурного наследия регионального значения «Загородный усадебный комплекс с парком, фонтаном и купеческими домами: Кошкиных, Панченко, Асмоловых»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6922463,
+          47.2656342
+        ]
+      },
+      "id": "node/6724878974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6724878975",
+        "historic": "building",
+        "name": "Загородный усадебный комплекс Кошкиных, Панченко, Асмоловых",
+        "source": "Постановление правительства РО от 28 мар. 2019 № 202 Об установлении зон охраны объекта культурного наследия регионального значения «Загородный усадебный комплекс с парком, фонтаном и купеческими домами: Кошкиных, Панченко, Асмоловых»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6938503,
+          47.2655978
+        ]
+      },
+      "id": "node/6724878975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6724878976",
+        "historic": "building",
+        "name": "Доходный дом С.М. Покатилова, кон. XIX в.",
+        "source": "Постановление правительства РО от 28 мар. 2019 № 204 Об установлении зон охраны объекта культурного наследия регионального значения «Доходный дом С.М. Покатилова, кон. XIX в.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6836102,
+          47.2202513
+        ]
+      },
+      "id": "node/6724878976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6724878982",
+        "historic": "building",
+        "name": "Здание начальных училищ",
+        "source": "Постановление правительства РО от 28 мар. 2019 № 205 Об установлении зон охраны объекта культурного наследия регионального значения «Здание начальных училищ, построенное на средства М.П. и Е.Л. Шаховых, 1897 г., арх. Н.А. Дорошенко»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6859252,
+          47.2176311
+        ]
+      },
+      "id": "node/6724878982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6724878984",
+        "historic": "building",
+        "name": "Здание Донской опытной станции масличных культур",
+        "source": "Постановление правительства РО от 20 марта 2019 № 173 «Об установлении зон охраны объекта культурного наследия регионального значения «Здание Донской опытной станции масличных культур, где с 1924 г. по 1974 г. работал ученый-селекционер Л.А. Жданов»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7306716,
+          47.2502827
+        ]
+      },
+      "id": "node/6724878984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6724879385",
+        "historic": "tomb",
+        "memorial:subject": "Дмитрий Иосифович Ивановский",
+        "name": "Д. И. Ивановского",
+        "source": "Постановление правительства РО от 20 марта 2019 № 171 «Об установлении зон охраны объекта культурного наследия регионального значения «Могила и надгробие Д.И. Ивановского»",
+        "subject:wikidata": "Q358935",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7168509,
+          47.2427942
+        ]
+      },
+      "id": "node/6724879385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6724879386",
+        "historic": "building",
+        "name": "Доходный дом П. С. Сивожелезова, 1910-е гг.",
+        "source": "Постановление правительства РО от 28 февраля 2019 № 107 «Об установлении зон охраны объекта культурного наследия регионального значения «Доходный дом П.С. Сивожелезова, 1910-е гг.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6978238,
+          47.224086
+        ]
+      },
+      "id": "node/6724879386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6727487008",
+        "historic": "building",
+        "name": "Доходный дом Н. М. Курильского",
+        "source": "Постановление правительства РО от 8 мая 2019 № 305 Об установлении зон охраны объекта культурного наследия регионального значения «Доходный дом Н.М. Курильского, нач. XX в.»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7018969,
+          47.2242261
+        ]
+      },
+      "id": "node/6727487008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6727487009",
+        "historic": "building",
+        "name": "Доходный дом Е. М. Стигнеева",
+        "source": "Постановление правительства РО от 8 мая 2019 № 306 Об установлении зон охраны объекта культурного наследия регионального значения «Доходный дом Е.М. Стигнеева»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7169481,
+          47.2234428
+        ]
+      },
+      "id": "node/6727487009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6727487010",
+        "historic": "building",
+        "name": "Здание бани братьев Ф. М. и М. М. Дутиковых",
+        "source": "Постановление правительства РО от 8 мая 2019 № 307 Об установлении зон охраны объекта культурного наследия регионального значения «Здание бани братьев Ф.М. и М.М. Дутиковых»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7173773,
+          47.2243326
+        ]
+      },
+      "id": "node/6727487010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6727487012",
+        "historic": "building",
+        "name": "Доходный дом М. В. Мерошниченко",
+        "source": "Постановление правительства РО от 8 мая 2019 № 308 Об установлении зон охраны объекта культурного наследия регионального значения «Доходный дом М.В. Мерошниченко»",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7167698,
+          47.2231149
+        ]
+      },
+      "id": "node/6727487012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6950523194",
+        "historic": "building",
+        "name": "Особняк Парамонова",
+        "start_date": "1914",
+        "tourism": "attraction",
+        "wikidata": "Q16683714",
+        "wikipedia": "ru:Особняк Парамонова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7253271,
+          47.2269709
+        ]
+      },
+      "id": "node/6950523194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983724702",
+        "historic": "building",
+        "name": "Доходный дом П. И. Крамера",
+        "source": "Постановление правительства РО от 28 февраля 2018 № 115 «Об утверждении границ зон охраны объекта культурного наследия регионального значения «Доходный дом П.И. Крамер, 1910-е гг.»",
+        "start_date": "1905",
+        "tourism": "attraction",
+        "wikidata": "Q16683712",
+        "wikipedia": "ru:Особняк Павла Крамера"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7192186,
+          47.2257972
+        ]
+      },
+      "id": "node/6983724702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983724703",
+        "historic": "building",
+        "name": "Частное мужское реальное училище С. Я. Ягубьянца",
+        "start_date": "1913",
+        "tourism": "attraction",
+        "wikidata": "Q29350748",
+        "wikipedia": "ru:Частное мужское реальное училище С. Я. Ягубьянца"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7547699,
+          47.2307168
+        ]
+      },
+      "id": "node/6983724703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983724704",
+        "historic": "building",
+        "name": "Особняк Сагирова",
+        "tourism": "attraction",
+        "wikidata": "Q16683718",
+        "wikipedia": "ru:Особняк Сагирова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7638023,
+          47.2288691
+        ]
+      },
+      "id": "node/6983724704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983724705",
+        "historic": "building",
+        "name": "Дом Резниченко",
+        "tourism": "attraction",
+        "wikidata": "Q16645480",
+        "wikipedia": "ru:Дом Резниченко"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7036752,
+          47.2230994
+        ]
+      },
+      "id": "node/6983724705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983724707",
+        "historic": "building",
+        "name": "Особняк Петрова",
+        "tourism": "attraction",
+        "wikidata": "Q16683716",
+        "wikipedia": "ru:Особняк Петрова (Ростов-на-Дону)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.715772,
+          47.225656
+        ]
+      },
+      "id": "node/6983724707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983724708",
+        "historic": "building",
+        "name": "Особняк Хатранова",
+        "start_date": "1890",
+        "tourism": "attraction",
+        "wikidata": "Q29049022",
+        "wikipedia": "ru:Особняк Хатранова (Ростов-на-Дону)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7539425,
+          47.2287461
+        ]
+      },
+      "id": "node/6983724708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983724709",
+        "historic": "building",
+        "name": "Особняк Трунова",
+        "tourism": "attraction",
+        "wikidata": "Q28867954",
+        "wikipedia": "ru:Особняк Трунова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7026184,
+          47.2168509
+        ]
+      },
+      "id": "node/6983724709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983724710",
+        "historic": "building",
+        "name": "Особняк Герасимова",
+        "start_date": "1900",
+        "tourism": "attraction",
+        "wikidata": "Q28653822",
+        "wikipedia": "ru:Особняк Герасимова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7011302,
+          47.2176485
+        ]
+      },
+      "id": "node/6983724710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983724711",
+        "historic": "building",
+        "name": "Доходный дом С.Н. Мнацакановой",
+        "start_date": "1915",
+        "tourism": "attraction",
+        "wikidata": "Q24935366",
+        "wikipedia": "ru:Доходный дом С.Н. Мнацакановой"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7079869,
+          47.2240111
+        ]
+      },
+      "id": "node/6983724711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983724722",
+        "historic": "building",
+        "name": "Особняк Егора Красильникова",
+        "tourism": "attraction",
+        "wikidata": "Q16683700",
+        "wikipedia": "ru:Особняк Егора Красильникова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7603209,
+          47.2318246
+        ]
+      },
+      "id": "node/6983724722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983724723",
+        "historic": "building",
+        "name": "Жилой дом Хаджаева",
+        "tourism": "attraction",
+        "wikidata": "Q29514950",
+        "wikipedia": "ru:Жилой дом Хаджаева (Ростов-на-Дону)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7100527,
+          47.2194806
+        ]
+      },
+      "id": "node/6983724723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983724724",
+        "historic": "building",
+        "name": "Доходный дом Степана Акимова",
+        "start_date": "1899",
+        "tourism": "attraction",
+        "wikidata": "Q28908926",
+        "wikipedia": "ru:Доходный дом Степана Акимова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7133058,
+          47.2154871
+        ]
+      },
+      "id": "node/6983724724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983724725",
+        "historic": "building",
+        "name": "Доходный дом Пивоваровой",
+        "tourism": "attraction",
+        "wikidata": "Q28944460",
+        "wikipedia": "ru:Доходный дом Пивоваровой"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7110874,
+          47.2203511
+        ]
+      },
+      "id": "node/6983724725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983724726",
+        "historic": "building",
+        "name": "Доходный дом А. М. Штрома",
+        "start_date": "1912",
+        "tourism": "attraction",
+        "wikidata": "Q28921563",
+        "wikipedia": "ru:Доходный дом А. М. Штрома"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7251471,
+          47.2240424
+        ]
+      },
+      "id": "node/6983724726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983724727",
+        "historic": "building",
+        "name": "Дом Ф. Н. Солодова",
+        "tourism": "attraction",
+        "wikidata": "Q28754132",
+        "wikipedia": "ru:Дом Ф. Н. Солодова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7151182,
+          47.2228697
+        ]
+      },
+      "id": "node/6983724727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983724728",
+        "historic": "building",
+        "name": "Особняк Великановой",
+        "start_date": "1890",
+        "tourism": "attraction",
+        "wikidata": "Q16683688",
+        "wikipedia": "ru:Особняк Великановой"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7018246,
+          47.2172449
+        ]
+      },
+      "id": "node/6983724728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7143364041",
+        "historic": "building",
+        "name": "Дом Трудолюбия",
+        "source": "план Ростова-на-Дону 1902 года",
+        "tourism": "attraction",
+        "wikipedia": "ru:Дом трудолюбия (Ростов-на-Дону)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7232822,
+          47.2305356
+        ]
+      },
+      "id": "node/7143364041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7143439080",
+        "description": "по плану, к нему относятся здания 27, 29 по Нахичеванскому переулку",
+        "historic": "building",
+        "name": "Дом Трудолюбия",
+        "source": "план Ростова-на-Дону 1902 года",
+        "tourism": "attraction",
+        "wikipedia": "ru:Дом трудолюбия (Ростов-на-Дону)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7381142,
+          47.2281716
+        ]
+      },
+      "id": "node/7143439080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8081258317",
+        "addr:street": "Газетный переулок",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7126184,
+          47.2302897
+        ]
+      },
+      "id": "node/8081258317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8567532217",
+        "name:signed": "no",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7347568,
+          47.229384
+        ]
+      },
+      "id": "node/8567532217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8752425495",
+        "contact:email": "rostov@mikros.vrn.ru",
+        "contact:phone": "+7 863 3105536",
+        "contact:website": "https://микрос.рф",
+        "name": "Микрос",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "shop": "party",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8107838,
+          47.2625455
+        ]
+      },
+      "id": "node/8752425495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8808047617",
+        "addr:housenumber": "29",
+        "addr:street": "Нижнебульварная улица",
+        "name": "Гирловой комитет",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7311907,
+          47.2190019
+        ]
+      },
+      "id": "node/8808047617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9190251717",
+        "name": "Кладбище поездов",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5965249,
+          47.2490951
+        ]
+      },
+      "id": "node/9190251717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9459939818",
+        "name": "Этномарка кужма",
+        "opening_hours": "24/7",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6007982,
+          47.1823274
+        ]
+      },
+      "id": "node/9459939818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10114044517",
+        "name": "Центр Ростова на Дону",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7104471,
+          47.2208342
+        ]
+      },
+      "id": "node/10114044517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12670090201",
+        "name": "Кот учёный",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7108842,
+          47.2382454
+        ]
+      },
+      "id": "node/12670090201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12670090202",
+        "name": "Памятник выпускникам ДГТУ. В добрый путь.",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7125405,
+          47.2369017
+        ]
+      },
+      "id": "node/12670090202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12692349401",
+        "name": "Зинаида Ермольева",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7408511,
+          47.2271862
+        ]
+      },
+      "id": "node/12692349401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12806123974",
+        "name": "\"RUSSIA 2018 РОСТОВ-НА-ДОНУ\"",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.732407,
+          47.2037349
+        ]
+      },
+      "id": "node/12806123974"
+    }
+  ]
+}

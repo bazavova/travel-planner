@@ -20,6 +20,7 @@ function HomePage() {
     travelType: '',
     language: '',
     guideRequired: false,
+    transport: '', // добавлено поле транспорта
   });
 
   const [destinations, setDestinations] = useState([]);
@@ -46,6 +47,7 @@ function HomePage() {
       travelType: formData.travelType,
       language: formData.language,
       guideRequired: formData.guideRequired,
+      transport: formData.transport, // добавлен параметр транспорта
     });
     navigate(`/search?${params.toString()}`);
   };
@@ -131,6 +133,20 @@ function HomePage() {
                 <option value="">Выбрать</option>
                 <option value="ru">Русский</option>
                 <option value="en">Английский</option>
+              </select>
+            </label>
+
+            <label>
+              Транспорт:
+              <select
+                name="transport"
+                value={formData.transport}
+                onChange={handleChange}
+              >
+                <option value="">Выбрать</option>
+                <option value="car">Автомобиль</option>
+                <option value="plane">Самолёт</option>
+                <option value="train">Поезд</option>
               </select>
             </label>
 

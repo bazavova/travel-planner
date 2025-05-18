@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate, Link } from 'react-router-dom';
+import AdminLogin from './components/AdminLogin.jsx';
+import AdminDashboard from './components/AdminDashboard.jsx';
 import HomePage from './pages/HomePage.jsx';
 import LoginPage from './pages/LoginPage.jsx';
 import RegisterPage from './pages/RegisterPage.jsx';
@@ -29,8 +31,8 @@ function App() {
             <div className="logo">🧭🌏Travel Planner</div>
             <div className="nav-links">
               <Link to="/">Главная</Link> |{" "}
-              <Link to="/trips">Поездки</Link> |{" "}
               <Link to="/search">Поиск</Link> |{" "}
+              <Link to="/trips">Поездки</Link> |{" "}
               <Link to="/profile">Профиль</Link>
             </div>
           </nav>
@@ -38,6 +40,9 @@ function App() {
 
         <div className="content">
           <Routes>
+            <Route path="/admin-login" element={<AdminLogin />} />
+            <Route path="/admin" element={<AdminDashboard />} />
+
             {!isAuthenticated ? (
               <>
                 <Route path="/login" element={<LoginPage onLogin={handleLogin} />} />
